@@ -27,7 +27,7 @@ All modern Chinese proverbs in this repository are licensed under a [Creative Co
 Content © Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ---
-**Transparency Statement / 透明声明**
+📜**Transparency Statement / 透明声明**
 
 Drafted with AI assistance for clarity; all proverbs and insights are original by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**.  
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由**何小驹 (Hé Xiǎojū / Ho Siew Khui)**原创。  
