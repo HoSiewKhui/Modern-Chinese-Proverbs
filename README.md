@@ -18,6 +18,16 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 10. [纵火客赞消防 (zòng huǒ kè zàn xiāo fáng) — The arsonist praising the firefighters](proverbs/zong-huo-ke-zan-xiao-fang.md)
 11. [盲人论色 (máng rén lùn sè) — Blind Man Debates Colours](proverbs/mang-ren-lun-se.md)
 12. [赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](proverbs/gan-lu-jian-xing-huan-xing-jian-miao.md)
+13. 🕸️ 网深人远 (wǎng shēn rén yuǎn) – The deeper the web, the farther the person [proverbs/wang-shen-ren-yuan.md](proverbs/wang-shen-ren-yuan.md)
+     
+
+
+
+
+
+
+
+
 
 
 ---
