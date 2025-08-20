@@ -2,6 +2,7 @@
 触友，失亲人
 ________________________________________
 ![海报](../../images/proverbs/2025/chuyou-shiqin.png)
+
 ________________________________________
 如今，我们与千里之外的人轻松保持联系，却与身边至亲日渐疏远。  
 “触友失亲” 点出这一时代的无声交换：朋友越来越多，亲情却越来越薄。
@@ -58,7 +59,8 @@ ________________________________________
 # 📜 触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin
 A quiet trade-off in the digital age
 ________________________________________
-(Poster / Calligraphy Artwork Placeholder)
+![Poster](../../images/proverbs/2025/chuyou-shiqin.png)
+
 ________________________________________
 We live in an age where it’s easy to stay in touch with hundreds of people through a screen yet somehow drift away from those just a few steps away. This modern proverb reflects a quiet trade-off many are making: gaining digital friendships while losing real kinship.
 
