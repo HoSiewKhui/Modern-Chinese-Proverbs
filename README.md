@@ -14,23 +14,26 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 
 ## 📚 Table of Contents
 
-1. [解难妙计 (jiě nàn miào jì) — A brilliant strategy that solves a difficult problem](proverbs/jie-nan-miao-ji.md)
-2. [孤 (gū) — For the Lonely — And Those Who Could Lighten Their Load](proverbs/gu.md)
-3. [错路藏金 (cuò lù cáng jīn) — The wrong road hides gold](proverbs/cuo-lu-cang-jin.md)
-4. [数沙责风 (shǔ shā zé fēng) — Counting grains of sand and blaming the wind](proverbs/shu-sha-ze-feng.md)
-5. [口谦心炫 (kǒu qiān xīn xuàn) — The humble mouth, boastful heart](proverbs/kou-qian-xin-xuan.md)
-6. [卖泪招怜 (mài lèi zhāo lián) — Selling tears to attract sympathy](proverbs/mai-lei-zhao-lian.md)
-7. [卖履无足 (mài lǚ wú zú) — Selling shoes to a person without feet](proverbs/mai-lv-wu-zu.md)
-8. [逆月称方 (nì yuè chēng fāng) — Declaring the Moon Square out of Contradiction](proverbs/ni-yue-cheng-fang.md)
-9. [贪倾天下 (tān qīng tiān xià) — Greed topples all-under-heaven](proverbs/tan-qing-tian-xia.md)
-10. [纵火客赞消防 (zòng huǒ kè zàn xiāo fáng) — The arsonist praising the firefighters](proverbs/zong-huo-ke-zan-xiao-fang.md)
-11. [盲人论色 (máng rén lùn sè) — Blind Man Debates Colours](proverbs/mang-ren-lun-se.md)
-12. [赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](proverbs/gan-lu-jian-xing-huan-xing-jian-miao.md)
-13. 🕸️ 网深人远 (wǎng shēn rén yuǎn) – The deeper the web, the farther the person [proverbs/wang-shen-ren-yuan.md](proverbs/wang-shen-ren-yuan.md)
-14. [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](proverbs/2025/chuyou-shiqin.md)
-15. [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](proverbs/2025/xin-wu-suo-zhu.md)
-16. [无执常安 (wú zhí cháng ān) — Without clinging, there is constant peace](proverbs/2025/wu-zhi-chang-an.md)
-17. [放下见心 (fàng xià jiàn xīn) — Let go, and see the mind](2025/fang-xia-jian-xin.md) 
+## Table of Contents
+
+1. 📜 [解难妙计 (jiě nàn miào jì) — A brilliant strategy that solves a difficult problem](2025/jie-nan-miao-ji.md)
+2. 📜 [孤 (gū) — For the Lonely — And Those who Could Lighten Their Load](2025/gu.md)
+3. 📜 [错路藏金 (cuò lù cáng jīn) — The wrong road hides gold](2025/cuo-lu-cang-jin.md)
+4. 📜 [数沙责风 (shǔ shā zé fēng) — Counting grains of sand and blaming the wind](2025/shu-sha-ze-feng.md)
+5. 📜 [口谦心轩 (kǒu qiān xīn xuān) — The humble mouth, boastful heart](2025/kou-qian-xin-xuan.md)
+6. 📜 [卖泪招怜 (mài lèi zhāo lián) — Selling tears to attract sympathy](2025/mai-lei-zhao-lian.md)
+7. 📜 [卖履无足 (mài lǚ wú zú) — Selling shoes to a person without feet](2025/mai-lv-wu-zu.md)
+8. 📜 [拟月成方 (nǐ yuè chéng fāng) — Declaring the Moon Square out of Contradiction](2025/ni-yue-cheng-fang.md)
+9. 📜 [贪倾天下 (tān qīng tiān xià) — Greed topples all under-heaven](2025/tan-qing-tian-xia.md)
+10. 📜 [纵火客赞消防 (zòng huǒ kè zàn xiāo fáng) — The arsonist praising the firefighters](2025/zong-huo-ke-zan-xiao-fang.md)
+11. 📜 [盲人论色 (máng rén lùn sè) — Blind Man Debates Colours](2025/mang-ren-lun-se.md)
+12. 📜 [赶路见星 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](2025/gan-lu-jian-xing-huan-xing-jian-miao.md)
+13. 📜 [网深人远 (wǎng shēn rén yuǎn) — The deeper the web, the farther the person](2025/wang-shen-ren-yuan.md)
+14. 📜 [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](2025/chu-you-shi-qin.md)
+15. 📜 [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](2025/xin-wu-suo-zhu.md)
+16. 📜 [无执常安 (wú zhí cháng ān) — Without clinging, there is constant peace](2025/wu-zhi-chang-an.md)
+17. 📜 [放下见心 (fàng xià jiàn xīn) — Let go, and see the mind](2025/fang-xia-jian-xin.md)
+
 
 
 
