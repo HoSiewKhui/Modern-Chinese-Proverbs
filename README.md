@@ -20,8 +20,8 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 12. [赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](proverbs/gan-lu-jian-xing-huan-xing-jian-miao.md)
 13. 🕸️ 网深人远 (wǎng shēn rén yuǎn) – The deeper the web, the farther the person [proverbs/wang-shen-ren-yuan.md](proverbs/wang-shen-ren-yuan.md)
 14. [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](proverbs/2025/chuyou-shiqin.md)
-15. [无执常安 (wú zhí cháng ān) - Without clinging, there is constant peace](proverbs/2025/wú-zhí-cháng-ān.md)
-16. [逆月称方 (nì yuè chēng fāng) - Declaring the Moon Square out of Contradiction](proverbs/2025/nì-yuè-chēng-fāng.md)
+15. [无执常安 (wú zhí cháng ān) - Without clinging, there is constant peace](proverbs/2025/wu-zhi-chang-an.md)
+16. [逆月称方 (nì yuè chēng fāng) - Declaring the Moon Square out of Contradiction](proverbs/2025/ni-yue-cheng-fang.md) 
      
 
 
