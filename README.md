@@ -20,6 +20,7 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 12. [赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](proverbs/gan-lu-jian-xing-huan-xing-jian-miao.md)
 13. 🕸️ 网深人远 (wǎng shēn rén yuǎn) – The deeper the web, the farther the person [proverbs/wang-shen-ren-yuan.md](proverbs/wang-shen-ren-yuan.md)
 14. [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](proverbs/2025/chuyou-shiqin.md)
+15. [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](proverbs/2025/xin-wu-suo-zhu.md)
 
 
 
