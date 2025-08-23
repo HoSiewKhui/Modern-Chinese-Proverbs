@@ -30,6 +30,8 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 14. [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](proverbs/2025/chuyou-shiqin.md)
 15. [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](proverbs/2025/xin-wu-suo-zhu.md)
 16. [无执常安 (wú zhí cháng ān) — Without clinging, there is constant peace](proverbs/2025/wu-zhi-chang-an.md)
+17. [放下见心 (fàng xià jiàn xīn) — Let go, and see the mind](fang-xia-jian-xin.md)
+
 
 
 
