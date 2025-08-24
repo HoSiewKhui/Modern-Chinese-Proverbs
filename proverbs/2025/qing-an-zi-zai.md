@@ -26,7 +26,7 @@
 ---
 
 ## 法义连结  
-此句呼应佛陀所说的第四圣谛（道谛）。解脱不是一瞬间的结果，而是一条要不断践行的路。八正道的每一步，都是在减轻执念与困惑；负担一分分卸下，心灵一寸寸自在。  
+此句呼应佛陀所说的**第四圣谛**（道谛）。解脱不是一瞬间的结果，而是一条要不断践行的路。八正道的每一步，都是在减轻执念与困惑；负担一分分卸下，心灵一寸寸自在。  
 
 经典中称之为“轻安”——修行渐深时，身心自然生起的柔和与舒畅。这并非遥不可及的境界，而是随修随现的体验。自在，不在彼岸，而在脚下。  
 
@@ -100,7 +100,7 @@ Life often feels heavy. We carry worries, responsibilities, regrets, and endless
 ---
 
 ## Connection to the Dharma  
-This proverb reflects the Fourth Noble Truth — the path that leads to freedom. The Buddha showed that liberation is not found in a single act but in a way of living. Each step of the Noble Eightfold Path lightens the load of craving and confusion, and with each release, the heart grows freer.  
+This proverb reflects the **Fourth Noble Truth** — the path that leads to freedom. The Buddha showed that liberation is not found in a single act but in a way of living. Each step of the Noble Eightfold Path lightens the load of craving and confusion, and with each release, the heart grows freer.  
 
 In the scriptures, this state is called *praśrabdhi (轻安)* — a lightness of body and mind that arises naturally from practice. It is the fruit of walking the path: freedom not as an abstract idea, but as an immediate, lived experience.  
 
