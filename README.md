@@ -35,6 +35,7 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 17. 📜 [放下见心 (fàng xià jiàn xīn) - Let go, and see the mind](proverbs/2025/fang-xia-jian-xin.md)
 18. 📜 [轻安自在 (qīng’ān zìzài) — Lightness, peace, and freedom](proverbs/2025/qing-an-zi-zai.md)
 19. 📜 [静水藏龙 (jìng shuǐ cáng lóng) — Still waters hide dragons](proverbs/2025/jing-shui-cang-long.md)
+20. 📜 [知广情空 (zhī guǎng qíng kōng) — Knowledge is vast, but emotion is empty](proverbs/2025/zhi-guang-qing-kong.md)
     
 
     
