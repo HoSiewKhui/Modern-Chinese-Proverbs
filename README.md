@@ -33,7 +33,8 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 15. 📜 [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](proverbs/2025/xin-wu-suo-zhu.md)
 16. 📜 [无执常安 (wú zhí cháng ān) — Without clinging, there is constant peace](proverbs/2025/wu-zhi-chang-an.md)
 17. 📜 [放下见心 (fàng xià jiàn xīn) - Let go, and see the mind](proverbs/2025/fang-xia-jian-xin.md)
-18. 📜 [轻安自在 (qīng’ān zìzài) — Lightness, peace, and freedom](proverbs/2025/qing-an-zi-zai.md)  
+18. 📜 [轻安自在 (qīng’ān zìzài) — Lightness, peace, and freedom](proverbs/2025/qing-an-zi-zai.md)
+19. 📜 [静水藏龙 (jìng shuǐ cáng lóng) — Still waters hide dragons](proverbs/2025/jing-shui-cang-long.md)
     
 
     
