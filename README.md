@@ -36,6 +36,7 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 18. 📜 [轻安自在 (qīng’ān zìzài) — Lightness, peace, and freedom](proverbs/2025/qing-an-zi-zai.md)
 19. 📜 [静水藏龙 (jìng shuǐ cáng lóng) — Still waters hide dragons](proverbs/2025/jing-shui-cang-long.md)
 20. 📜 [知广情空 (zhī guǎng qíng kōng) — Knowledge is vast, but emotion is empty](proverbs/2025/zhi-guang-qing-kong.md)
+21. 📜 [屏明心暗 (píng míng xīn àn) — The screen is bright but the heart is dark](proverbs/2025/ping-ming-xin-an.md)
     
 
     
