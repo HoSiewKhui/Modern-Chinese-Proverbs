@@ -13,6 +13,13 @@ jobs:
           fetch-depth: 0
 
       - name: Push mirror to GitLab
+        env:
+          GL_TOKEN: ${{ secrets.GITLAB_TOKEN }}
+          GL_REPO:  ${{ secrets.GITLAB_REPO }}
         run: |
-          git remote add gitlab "${{ secrets.GITLAB_URL }}"
+          # Remove any accidental newlines from the token
+          GL_TOKEN_CLEAN=$(echo -n "$GL_TOKEN" | tr -d '\r\n')
+          # Build HTTPS URL with token
+          GITLAB_URL="https://oauth2:${GL_TOKEN_CLEAN}@${GL_REPO#https://}"
+          git remote add gitlab "$GITLAB_URL"
           git push --mirror gitlab
