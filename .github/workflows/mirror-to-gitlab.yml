@@ -17,9 +17,12 @@ jobs:
           GL_TOKEN: ${{ secrets.GITLAB_TOKEN }}
           GL_REPO:  ${{ secrets.GITLAB_REPO }}
         run: |
-          # Remove any accidental newlines from the token
-          GL_TOKEN_CLEAN=$(echo -n "$GL_TOKEN" | tr -d '\r\n')
-          # Build HTTPS URL with token
-          GITLAB_URL="https://oauth2:${GL_TOKEN_CLEAN}@${GL_REPO#https://}"
+          set -e
+          # Clean any accidental CR/LF or spaces
+          GL_TOKEN_CLEAN=$(printf "%s" "$GL_TOKEN" | tr -d '\r\n')
+          GL_REPO_CLEAN=$(printf "%s" "$GL_REPO"  | tr -d '\r\n')
+          # Strip leading https:// if present
+          GL_REPO_STRIPPED=${GL_REPO_CLEAN#https://}
+          GITLAB_URL="https://oauth2:${GL_TOKEN_CLEAN}@${GL_REPO_STRIPPED}"
           git remote add gitlab "$GITLAB_URL"
           git push --mirror gitlab
