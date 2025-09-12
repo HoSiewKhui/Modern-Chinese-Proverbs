@@ -1,3 +1,17 @@
+<!--
+[Metadata]
+title: "口谦心炫 (kǒu qiān xīn xuàn)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
 # 口谦心炫 (kǒu qiān xīn xuàn)  
 *The humble mouth, boastful heart*
 
