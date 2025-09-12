@@ -10,7 +10,7 @@ status: published
 source_platforms: [Medium, GitHub]
 -->
 
-# 📜 中文文章草稿 — 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
+# 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
 字面意：关窗看世界，忘路不见人  
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
@@ -93,7 +93,7 @@ ________________________________________
 
 ---
 
-# 📜 Medium Article Draft — 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
+# 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
 *The window is closed, the world observed — yet the road forgotten, the people unseen*  
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
