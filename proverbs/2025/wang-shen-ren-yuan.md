@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "📜 网深人远 (wǎng shēn rén yuǎn)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: August 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 📜 网深人远 (wǎng shēn rén yuǎn)  
 The deeper the web, the farther the person  
 📜 This article contains both English and Chinese versions / 本文含中英文版本
