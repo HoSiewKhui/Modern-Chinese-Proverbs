@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "📜 心无所住 (xīn wú suǒ zhù)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: August 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 **📜 心无所住 (xīn wú suǒ zhù)**
 
 心若无住，自在无碍
