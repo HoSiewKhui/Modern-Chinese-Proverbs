@@ -40,6 +40,7 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 21. 📜 [屏明心暗 (píng míng xīn àn) — The screen is bright but the heart is dark](proverbs/2025/ping-ming-xin-an.md)
 22. 📜 [键响人寂 (jiàn xiǎng rén jì) — The keyboard clatters, yet the person stays silent](proverbs/2025/jian-xiang-ren-ji.md)
 23. 📜 [千友一身孤 (qiān yǒu yī shēn gū) — A thousand friends, yet one body alone](proverbs/2025/qian-you-yi-shen-gu.md)
+24. 📜 [闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén) — The window is closed, the world observed — yet the road forgotten, the people unseen](proverbs/2025/bi-chuang-yue-shi-wang-lu-jian-ren.md)
 
     
     
