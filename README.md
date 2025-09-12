@@ -38,7 +38,7 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 19. 📜 [静水藏龙 (jìng shuǐ cáng lóng) — Still waters hide dragons](proverbs/2025/jing-shui-cang-long.md)
 20. 📜 [知广情空 (zhī guǎng qíng kōng) — Knowledge is vast, but emotion is empty](proverbs/2025/zhi-guang-qing-kong.md)
 21. 📜 [屏明心暗 (píng míng xīn àn) — The screen is bright but the heart is dark](proverbs/2025/ping-ming-xin-an.md)
-22. 📜 [键响人寂 (jiàn xiǎng rén jì) — The keyboard clatters, yet the person stays silent](#-键响人寂-jiàn-xiǎng-rén-jì--the-keyboard-clatters-yet-the-person-stays-silent)
+22. 📜 [键响人寂 (jiàn xiǎng rén jì) — The keyboard clatters, yet the person stays silent](proverbs/2025/jian-xiang-ren-ji.md)
 
     
     
