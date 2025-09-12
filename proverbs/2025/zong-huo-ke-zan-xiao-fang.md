@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)  
 *The arsonist praising the firefighters*
 
