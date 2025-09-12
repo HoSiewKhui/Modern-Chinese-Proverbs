@@ -12,7 +12,6 @@ source_platforms: [Medium, GitHub]
 
 
 
-
 # 逆月称方 (nì yuè chēng fāng)  
 *Declaring the Moon Square out of Contradiction*
 
