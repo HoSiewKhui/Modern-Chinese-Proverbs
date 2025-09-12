@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "📜 知广情空 (zhī guǎng qíng kōng)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: September 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 📜 知广情空 (zhī guǎng qíng kōng)  
 知识宽广，情感空虚  
 
