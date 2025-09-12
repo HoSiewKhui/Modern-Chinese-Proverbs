@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "触友失亲 (chù yǒu shī qīn)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: August 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 **触友失亲 (chù yǒu shī qīn)**
 
 📜 本文含中英文版本
