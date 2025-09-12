@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "卖履无足 (mài lǚ wú zú)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 卖履无足 (mài lǚ wú zú)  
 *Selling shoes to a person without feet*
 
