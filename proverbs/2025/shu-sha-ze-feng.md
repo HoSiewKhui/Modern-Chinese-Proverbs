@@ -1,3 +1,17 @@
+<!--
+[Metadata]
+title: "数沙责风 (shǔ shā zé fēng)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
 # 数沙责风 (shǔ shā zé fēng)  
 *Counting grains of sand and blaming the wind*
 
