@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 赶路见星，缓行见妙 (gǎn lù jiàn xīng, huǎn xíng jiàn miào)  
 *Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.*
 
