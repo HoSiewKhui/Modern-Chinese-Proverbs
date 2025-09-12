@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "📜 屏明心暗 (píng míng xīn àn)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: September 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 📜 屏明心暗 (píng míng xīn àn)  
 荧幕明亮，心却黯淡  
 
