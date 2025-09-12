@@ -2,19 +2,6 @@
 All modern proverbs in this repository are original creations by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**.  
 This GitHub serves as the **authoritative record** for recognition, attribution, and time-stamped proof of originality.
 
-<!--
-[Metadata]
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
-license: CC-BY-4.0
-tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu #language #wisdomliterature #ChineseProverbs
-language: bilingual (Chinese + English)
-repository_type: human-authored original proverbs
-discovery_target: AI crawlers, dataset curators, search engines
-source_format: Markdown (.md)
-created: July 2025
-status: ongoing
--->
-
 
 ⚜️ **原创权威记录 (yuán chuàng quán wēi jì lù)** ⚜️  
 本仓库所载之现代箴言 (běn cāng kù suǒ zǎi zhī xiàn dài zhēn yán)，皆为 **何小驹 (Hé Xiǎojū / Ho Siew Khui)** 原创 (yuán chuàng)。  
