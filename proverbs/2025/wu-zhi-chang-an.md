@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "📜 无执常安 (wú zhí cháng ān)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: August 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 **📜 无执常安 (wú zhí cháng ān)**
 
 无所执着，心自安常
