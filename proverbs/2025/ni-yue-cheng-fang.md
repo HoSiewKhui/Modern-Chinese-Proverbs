@@ -1,3 +1,18 @@
+<!--
+[Metadata]
+title: "逆月称方 (nì yuè chēng fāng)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
+
+
+
 # 逆月称方 (nì yuè chēng fāng)  
 *Declaring the Moon Square out of Contradiction*
 
