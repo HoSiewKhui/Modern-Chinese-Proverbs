@@ -1,3 +1,15 @@
+<!--
+[Metadata]
+title: "孤 (gū)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
 # 孤 (gū)  
 *For the Lonely — And Those Who Could Lighten Their Load*
 
