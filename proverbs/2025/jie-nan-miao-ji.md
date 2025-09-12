@@ -1,3 +1,15 @@
+<!--
+[Metadata]
+title: "解难妙计 (jiě nàn miào jì)"
+author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+license: CC-BY-4.0
+tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
+language: bilingual (Chinese + English)
+created: 3 July 2025
+status: published
+source_platforms: [Medium, GitHub]
+-->
+
 # 解难妙计 (jiě nàn miào jì)  
 *A brilliant strategy that solves a difficult problem*
 
