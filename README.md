@@ -41,6 +41,8 @@ Each work explores the beauty, nuance, and wisdom of the Chinese language in a c
 22. 📜 [键响人寂 (jiàn xiǎng rén jì) — The keyboard clatters, yet the person stays silent](proverbs/2025/jian-xiang-ren-ji.md)
 23. 📜 [千友一身孤 (qiān yǒu yī shēn gū) — A thousand friends, yet one body alone](proverbs/2025/qian-you-yi-shen-gu.md)
 24. 📜 [闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén) — The window is closed, the world observed — yet the road forgotten, the people unseen](proverbs/2025/bi-chuang-yue-shi-wang-lu-jian-ren.md)
+25. 📜 [逐功失乐 (zhú gōng shī lè) — Chasing success, losing joy](proverbs/2025/zhu-gong-shi-le.md)
+26. 
 
     
     
