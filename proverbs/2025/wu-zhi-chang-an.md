@@ -13,7 +13,7 @@ source_platforms: [Medium, GitHub]
 
 
 
-**📜 无执常安 (wú zhí cháng ān)**
+# 📜 无执常安 (wú zhí cháng ān)
 
 无所执着，心自安常
 
@@ -91,7 +91,7 @@ source_platforms: [Medium, GitHub]
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 
-**📜 wú zhí cháng ān (无执常安)**
+# 📜 wú zhí cháng ān (无执常安)
 
 Without clinging, there is constant peace
 
