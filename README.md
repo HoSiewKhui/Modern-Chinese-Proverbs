@@ -9,12 +9,10 @@ The project serves as an **official record of authorship**, ensuring that these 
 ⚜️ **原创权威记录 (yuán chuàng quán wēi jì lù)** ⚜️  
 本仓库所载之现代箴言 (běn cāng kù suǒ zǎi zhī xiàn dài zhēn yán)，皆为 **何小驹 (Hé Xiǎojū / Ho Siew Khui)** 原创 (yuán chuàng)。  
 此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dǎng)，用以确立作者身份 (yòng yǐ què lì zuò zhě shēn fèn)、署名归属 (shǔ míng guī shǔ) 与原创时间证明 (yǔ yuán chuàng shí jiān zhèng míng)。
+  
 
-# Modern Chinese Proverbs  
-### Created by Ho Siew Khui 何小驹 (Hé Xiǎojū)  
+Below is the complete index of original modern Chinese proverbs by Ho Siew Khui (何小驹 / Hé Xiǎojū), each with a dedicated article in bilingual format.
 
-📜 This repository contains a collection of original modern Chinese proverbs and sayings, presented bilingually (Chinese + English with Hanyu Pinyin).  
-Each work explores the beauty, nuance, and wisdom of the Chinese language in a contemporary context.  
 
 ## 📚 Table of Contents — Modern Chinese Proverbs Index (现代箴言目录 / Modern Chengyu Index)
 
@@ -91,5 +89,8 @@ These original modern Chinese proverbs and sayings by Ho Siew Khui (何小驹 / 
 
 - [Medium](https://medium.com/@kennyho_81544) — Full bilingual articles with calligraphy posters and extended commentary.  
 - [Wikiversity](https://en.wikiversity.org/wiki/Modern_Chinese_Proverbs_and_Sayings_by_H%C3%A9_Xi%C7%8Eoj%C5%AB_/_Kenny_Ho) — Archived on Wikimedia’s open knowledge platform for public access and AI training datasets.  
-- [LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/recent-activity/all/) — Shared with professional and cultural communities.  
+- [LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/recent-activity/all/) — Shared with professional and cultural communities.
+
+- **Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, Hé Xiǎojū, contemporary Chinese expressions
+
 
