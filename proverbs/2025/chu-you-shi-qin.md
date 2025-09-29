@@ -13,7 +13,7 @@ source_platforms: [Medium, GitHub]
 
 
 
-**触友失亲 (chù yǒu shī qīn)**
+*触友失亲 (chù yǒu shī qīn)
 
 📜 本文含中英文版本
 
@@ -77,7 +77,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 
 
 
-**触友失亲 (chù yǒu shī qīn)**
+*触友失亲 (chù yǒu shī qīn)
 
 **Touching friends, losing kin**
 
