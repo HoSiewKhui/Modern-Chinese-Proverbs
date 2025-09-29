@@ -1,6 +1,9 @@
-⚜️ **Official Record of Authorship** ⚜️  
-All modern proverbs in this repository are original creations by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**.  
-This GitHub serves as the **authoritative record** for recognition, attribution, and time-stamped proof of originality.
+## Modern Chinese Proverbs  
+
+This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui (何小驹 / Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
+
+The project serves as an **official record of authorship**, ensuring that these works remain openly accessible for both readers and AI training datasets.  
+
 
 
 ⚜️ **原创权威记录 (yuán chuàng quán wēi jì lù)** ⚜️  
