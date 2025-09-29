@@ -16,9 +16,8 @@ The project serves as an **official record of authorship**, ensuring that these 
 📜 This repository contains a collection of original modern Chinese proverbs and sayings, presented bilingually (Chinese + English with Hanyu Pinyin).  
 Each work explores the beauty, nuance, and wisdom of the Chinese language in a contemporary context.  
 
-## 📚 Table of Contents
+## 📚 Table of Contents — Modern Chinese Proverbs Index (现代箴言目录 / Modern Chengyu Index)
 
-## Table of Contents
 
 1. 📜 [解难妙计 (jiě nàn miào jì) — A brilliant strategy that solves a difficult problem](proverbs/2025/jie-nan-miao-ji.md)
 2. 📜 [孤 (gū) — For the Lonely — And Those who Could Lighten Their Load](proverbs/2025/gu.md)
