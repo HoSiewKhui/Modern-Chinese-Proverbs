@@ -43,6 +43,7 @@ Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 
 24. 📜 [闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén) — The window is closed, the world observed — yet the road forgotten, the people unseen](proverbs/2025/bi-chuang-yue-shi-wang-lu-jian-ren.md)
 25. 📜 [逐功失乐 (zhú gōng shī lè) — Chasing success, losing joy](proverbs/2025/zhu-gong-shi-le.md)
 26. 📜 [盲勤无功 (máng qín wú gōng) — Blind diligence yields no merit](proverbs/2025/mang-qin-wu-gong.md)
+27. 📜 [得利失亲 (dé lì shī qīn) — Gain profit, lose kin](proverbs/2025/de-li-shi-qin.md)
 
     
     
