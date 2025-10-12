@@ -14,7 +14,7 @@ source_platforms: [Medium, GitHub]
 ### 化解困局的妙计  
 ### A Brilliant Strategy That Solves a Difficult Problem  
 
-📜 This article contains both English and Chinese versions  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
 ________________________________________  
 
 （海报 / 书法作品占位符）  
@@ -79,7 +79,7 @@ ________________________________________
 # 📜 解难妙计 (jiě nàn miào jì)  
 ### A Brilliant Strategy That Solves a Difficult Problem  
 
-📜 This article contains both English and Chinese versions  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
 ________________________________________  
 
 (Poster / Calligraphy Artwork Placeholder)  
