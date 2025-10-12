@@ -14,7 +14,7 @@ source_platforms: [Medium, GitHub]
 **致孤独者：你并不隐形。**  
 **致其他人：你手中握着那根绳索。**  
 
-📜 *本文含中英文版本 / This article contains both English and Chinese versions
+📜 本文含中英文版本 / This article contains both English and Chinese versions
 
 ---
 
@@ -65,7 +65,7 @@ source_platforms: [Medium, GitHub]
 **To the lonely:** You’re not invisible.  
 **To everyone else:** You hold the rope.  
 
-📜 *This article contains both English and Chinese versions / 本文含中英文版本
+📜 This article contains both English and Chinese versions / 本文含中英文版本
 
 ---
 
