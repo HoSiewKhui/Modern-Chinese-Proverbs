@@ -74,7 +74,7 @@ source_platforms: [Medium, GitHub]
 
 **Don’t let the funeral be your only reunion.**  
 
-In an age when we wait too long — when reunions come only at farewells — this phrase whispers:  
+In an age when we wait too long, when reunions come only at farewells, this phrase whispers:  
 **Don’t let regret and loneliness walk hand in hand.**  
 
 The character **“孤”** stands alone at the top of the poster — a minimalist and melancholy presence.  
