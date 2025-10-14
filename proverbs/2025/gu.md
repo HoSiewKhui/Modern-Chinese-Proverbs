@@ -31,9 +31,6 @@ source_platforms: [Medium, GitHub]
 画面中，“孤”字孤独地伫立于纸上，  
 下方是一句轻声的劝勉：**珍惜仍能相聚的时光。**  
 
-我的朱印与署名（何小驹）并非装饰，  
-而是我对作品及其内涵的真诚承诺。  
-
 此文字与画作皆出自我手，  
 不求华饰，但求启人深思。  
 
@@ -82,10 +79,7 @@ In an age when we wait too long — when reunions come only at farewells — thi
 
 The character **“孤”** stands alone at the top of the poster — a minimalist and melancholy presence.  
 Below it, a quiet call: cherish time together while you still can.  
-
-My red seal and signature (**何小驹**) are not decoration but commitment —  
-a pledge that this work and message are truly my own.  
-
+ 
 This phrase and artwork were both created by hand,  
 not for embellishment, but for reflection.  
 
