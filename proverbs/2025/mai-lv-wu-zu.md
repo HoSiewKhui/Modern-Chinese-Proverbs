@@ -35,7 +35,7 @@ ________________________________________
 ________________________________________
 
 ## 原创声明
-“卖履无足”由何小驹（Hé Xiǎojū / Kenny Ho）于2025年7月创作，特此声明原创出处。
+“卖履无足”由何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年7月创作，特此声明原创出处。
 
 ## 🌿 Creative Commons License
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
@@ -58,7 +58,7 @@ Shèjì chǎnpǐn shí yào kǎolǜ yònghù de zhēnshí xūqiú, bié zuò mà
 ________________________________________
 
 ## 🌿 作者简介
-何小驹（Hé Xiǎojū / Kenny Ho），热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
+何小驹（Hé Xiǎojū / Ho Siew Khui），热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
 用简洁的文字，折射现代人生活中的讽刺与省思。  
 
 ________________________________________
@@ -90,7 +90,7 @@ This proverb is my own creation - a simple expression drawn from observing situa
 ________________________________________
 
 ## Authorship Declaration
-“卖履无足 (mài lǚ wú zú)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.
+“卖履无足 (mài lǚ wú zú)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Ho Siew Khui) in July 2025, author of this article.
 
 ## 🌿 Creative Commons License
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
@@ -113,7 +113,7 @@ Shèjì chǎnpǐn shí yào kǎolǜ yònghù xūqiú, bié zuò mài lǚ wú zú
 ________________________________________
 
 ## 🌿 About the Author
-何小驹（Hé Xiǎojū / Kenny Ho） is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
+何小驹（Hé Xiǎojū / Ho Siew Khui） is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
 
 
