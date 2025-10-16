@@ -55,7 +55,7 @@ Tā zài tǎolùn zhōng zǒng yào nì yuè chēng fāng, ràng rén wúnài.
 
 别跟他争了，他只是习惯逆月称方而已。  
 Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.  
-“Don’t bother arguing with him. He’s just used to being contrarian — pure 逆月称方.”  
+“Don’t bother arguing with him. He’s just used to being contrarian - pure 逆月称方.”  
 
 ________________________________________
 
@@ -73,7 +73,7 @@ ________________________________________
 ________________________________________
 
 In daily life, we often encounter people who habitually contradict others for no good reason.  
-If you say the moon is round, this person will insist the moon is square — a perfect example of contrarian behaviour that defies common sense purely for the sake of opposition.  
+If you say the moon is round, this person will insist the moon is square - a perfect example of contrarian behaviour that defies common sense purely for the sake of opposition.  
 This inspired the creation of a new phrase: 逆月称方 (nì yuè chēng fāng).  
 
 ________________________________________
