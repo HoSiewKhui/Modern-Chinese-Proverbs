@@ -71,7 +71,7 @@ ________________________________________
 In reflecting on the forces that shape the rise and fall of empires, societies, and individuals, one truth stands clear to me: greed knows no limits, and when left unchecked, it consumes everything — even that which seems unshakable.  
 
 📜 “贪倾天下 (tān qīng tiān xià)” distills this observation into a timeless and poetic warning:  
-**Greed topples all-under-heaven.**  
+Greed topples all-under-heaven.  
 
 I coined this phrase to capture the idea that the danger of greed is not confined to personal failings. History reminds us that even mighty dynasties can collapse when greed becomes their driving force. In today’s world, this warning feels just as relevant — whether in politics, business, or daily life.  
 
