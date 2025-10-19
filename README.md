@@ -45,7 +45,7 @@ Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 
 26. 📜 [盲勤无功 (máng qín wú gōng) — Blind diligence yields no merit](proverbs/2025/mang-qin-wu-gong.md)
 27. 📜 [得利失亲 (dé lì shī qīn) — Gain profit, lose kin](proverbs/2025/de-li-shi-qin.md)
 28. 📜 [逐功伤身 (zhú gōng shāng shēn) — Chasing success, harming the body](proverbs/2025/zhu-gong-shang-shen.md)
-29. 📜 [利盛义衰 (lì shèng yì shuāi) - Profit thrives, virtue declines] (proverbs/2025/li-sheng-yi-shuai.md) 
+29. 📜 [利盛义衰 (lì shèng yì shuāi) - Profit thrives, virtue declines](proverbs/2025/li-sheng-yi-shuai.md) 
 
     
     
