@@ -54,7 +54,12 @@ source_platforms: [Medium, GitHub]
 现在就拨个电话、探望长辈、与朋友相聚，  
 别等到告别时才见面。  
 
-✨ 若这句话让你想起某个人，请分享给他们。  
+✨ 若这句话让你想起某个人，请分享给他们。 
+
+---
+
+## 🌿 作者简介：
+Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 ---
 
@@ -104,4 +109,10 @@ Call a friend, visit a parent, gather before parting becomes final.
 Don’t wait until the farewell to meet.  
 
 ✨ If this reminds you of someone, send it their way. 
+
+---
+
+## 🌿 About the Author:
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+
 
