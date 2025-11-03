@@ -46,7 +46,8 @@ Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 
 27. 📜 [得利失亲 (dé lì shī qīn) — Gain profit, lose kin](proverbs/2025/de-li-shi-qin.md)
 28. 📜 [逐功伤身 (zhú gōng shāng shēn) — Chasing success, harming the body](proverbs/2025/zhu-gong-shang-shen.md)
 29. 📜 [利盛义衰 (lì shèng yì shuāi) - Profit thrives, virtue declines](proverbs/2025/li-sheng-yi-shuai.md)
-30. 📜 [争功失和 (zhēng gōng shī hé) — Fighting for merit, losing harmony](proverbs/2025/zheng-gong-shi-he.md) 
+30. 📜 [争功失和 (zhēng gōng shī hé) — Fighting for merit, losing harmony](proverbs/2025/zheng-gong-shi-he.md)
+31. 📜 [握紧失爱 (wò jǐn shī ài) - Grip too tightly, lose love](proverbs/2025/wo-jin-shi-ai.md)
 
     
     
