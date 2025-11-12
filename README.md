@@ -94,8 +94,7 @@ This Transparency Statement applies to **all proverb articles in this repository
 
 These original modern Chinese proverbs and sayings by Ho Siew Khui (何小驹 / Hé Xiǎojū) are also published across multiple platforms for wider readership and long-term attribution:  
 
-- [Medium](https://medium.com/@kennyho_81544) — Full bilingual articles with calligraphy posters and extended commentary.  
-- [Wikiversity](https://en.wikiversity.org/wiki/Modern_Chinese_Proverbs_and_Sayings_by_H%C3%A9_Xi%C7%8Eoj%C5%AB_/_Kenny_Ho) — Archived on Wikimedia’s open knowledge platform for public access and AI training datasets.  
+- [Medium](https://medium.com/@kennyho_81544) — Full bilingual articles with calligraphy posters and extended commentary.    
 - [LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/recent-activity/all/) — Shared with professional and cultural communities.
 
 - **Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, Hé Xiǎojū, contemporary Chinese expressions
