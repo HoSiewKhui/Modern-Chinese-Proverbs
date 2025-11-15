@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 数沙责风 (shǔ shā zé fēng)
-“Counting grains of sand and blaming the wind”
+## “Counting grains of sand and blaming the wind”
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -65,7 +65,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) ，热爱中文语言与文化，专注于
 ---
 
 # 📜 shǔ shā zé fēng (数沙责风)
-Counting grains of sand and blaming the wind
+## Counting grains of sand and blaming the wind
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本
 
