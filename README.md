@@ -1,4 +1,13 @@
 ## Modern Chinese Proverbs  
+## 📚 Quick Index – Articles
+
+Here are the main proverb articles stored in the new **Articles** folder:
+
+1. [逐完失伴 (zhú wán shī bàn)](Articles/zhu-wan-shi-ban.md)
+2. [键响人寂 (jiàn xiǎng rén jì)](Articles/jian-xiang-ren-ji.md)
+
+<!-- Add the rest by following the same pattern -->
+
 
 This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui (何小驹 / Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
 
