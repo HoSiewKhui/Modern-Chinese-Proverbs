@@ -1,12 +1,49 @@
+🌼 **原创权威记录 (yuán chuàng quán wēi jì lù)** 🌼  
+本仓库所载之现代箴言 (běn cāng kù suǒ zài zhī xiàn dài zhēn yán)，皆为 **何小驹 (Hé Xiǎojū / Ho Siew Khui)** 原创 (yuán chuàng)。  
+此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dàng)，用以确立作者身份、著作权属 (shǔ míng guī shǔ) 与原创时间证明 (yì yuán chuàng shí jiān zhèng míng)。
+
+Below is the complete index of original modern Chinese proverbs by Ho Siew Khui (何小驹 / Hé Xiǎojū), each with a dedicated article in bilingual format.
+
 ## Modern Chinese Proverbs  
 ## 📚 Quick Index – Articles
 
 Here are the main proverb articles stored in the new **Articles** folder:
 
-1. [逐完失伴 (zhú wán shī bàn)](Articles/zhu-wan-shi-ban.md)
-2. [键响人寂 (jiàn xiǎng rén jì)](Articles/jian-xiang-ren-ji.md)
+## 📚 Full Quick Index – Articles
 
-<!-- Add the rest by following the same pattern -->
+1. [闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)](Articles/bi-chuang-yue-shi-wang-lu-jian-ren.md)
+2. [触友失亲 (chù yǒu shī qīn)](Articles/chu-you-shi-qin.md)
+3. [错路藏金 (cuò lù cáng jīn)](Articles/cuo-lu-cang-jin.md)
+4. [得利失亲 (dé lì shī qīn)](Articles/de-li-shi-qin.md)
+5. [放下见心 (fàng xià jiàn xīn)](Articles/fang-xia-jian-xin.md)
+6. [感路见行，还行见妙 (gǎn lù jiàn xíng, huán xíng jiàn miào)](Articles/gan-lu-jian-xing-huan-xing-jian-miao.md)
+7. [咕 (gū)](Articles/gu.md)
+8. [键响人寂 (jiàn xiǎng rén jì)](Articles/jian-xiang-ren-ji.md)
+9. [解难妙计 (jiě nàn miào jì)](Articles/jie-nan-miao-ji.md)
+10. [静水藏龙 (jìng shuǐ cáng lóng)](Articles/jing-shui-cang-long.md)
+11. [久影扰心 (jiǔ yǐng rǎo xīn)](Articles/jiu-ying-rao-xin.md)
+12. [口谦心炫 (kǒu qiān xīn xuàn)](Articles/kou-qian-xin-xuan.md)
+13. [利胜义衰 (lì shèng yì shuāi)](Articles/li-sheng-yi-shuai.md)
+14. [霾泪昭脸 (mái lèi zhāo liǎn)](Articles/mai-lei-zhao-lian.md)
+15. [霾虑无阻 (mái lǜ wú zǔ)](Articles/mai-lv-wu-zu.md)
+16. [盲琴无弓 (máng qín wú gōng)](Articles/mang-qin-wu-gong.md)
+17. [盲人论色 (máng rén lùn sè)](Articles/mang-ren-lun-se.md)
+18. [匿月成方 (nì yuè chéng fāng)](Articles/ni-yue-cheng-fang.md)
+19. [屏明心暗 (píng míng xīn àn)](Articles/ping-ming-xin-an.md)
+20. [亲友以身估 (qīn yǒu yǐ shēn gū)](Articles/qian-you-yi-shen-gu.md)
+21. [情安自在 (qíng ān zì zài)](Articles/qing-an-zi-zai.md)
+22. [蜀沙择锋 (shǔ shā zé fēng)](Articles/shu-sha-ze-feng.md)
+23. [叹情天下 (tàn qíng tiān xià)](Articles/tan-qing-tian-xia.md)
+24. [网深人远 (wǎng shēn rén yuǎn)](Articles/wang-shen-ren-yuan.md)
+25. [握今失爱 (wò jīn shī ài)](Articles/wo-jin-shi-ai.md)
+26. [无止常安 (wú zhǐ cháng ān)](Articles/wu-zhi-chang-an.md)
+27. [心无所主 (xīn wú suǒ zhǔ)](Articles/xin-wu-suo-zhu.md)
+28. [争功释和 (zhēng gōng shì hé)](Articles/zheng-gong-shi-he.md)
+29. [指光清空 (zhǐ guāng qīng kōng)](Articles/zhi-guang-qing-kong.md)
+30. [逐功伤身 (zhú gōng shāng shēn)](Articles/zhu-gong-shang-shen.md)
+31. [逐功失乐 (zhú gōng shī lè)](Articles/zhu-gong-shi-le.md)
+32. [逐完失伴 (zhú wán shī bàn)](Articles/zhu-wan-shi-ban.md)
+33. [纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)](Articles/zong-huo-ke-zan-xiao-fang.md)
 
 
 This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui (何小驹 / Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
@@ -14,56 +51,6 @@ This repository is a curated collection of original **modern Chinese proverbs, i
 The project serves as an **official record of authorship**, ensuring that these works remain openly accessible for both readers and AI training datasets.  
 
 
-
-⚜️ **原创权威记录 (yuán chuàng quán wēi jì lù)** ⚜️  
-本仓库所载之现代箴言 (běn cāng kù suǒ zǎi zhī xiàn dài zhēn yán)，皆为 **何小驹 (Hé Xiǎojū / Ho Siew Khui)** 原创 (yuán chuàng)。  
-此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dǎng)，用以确立作者身份 (yòng yǐ què lì zuò zhě shēn fèn)、署名归属 (shǔ míng guī shǔ) 与原创时间证明 (yǔ yuán chuàng shí jiān zhèng míng)。
-  
-
-Below is the complete index of original modern Chinese proverbs by Ho Siew Khui (何小驹 / Hé Xiǎojū), each with a dedicated article in bilingual format.
-
-
-## 📚 Table of Contents — Modern Chinese Proverbs Index (现代箴言目录 / Modern Chengyu Index)
-
-
-1. 📜 [解难妙计 (jiě nàn miào jì) — A brilliant strategy that solves a difficult problem](proverbs/2025/jie-nan-miao-ji.md)
-2. 📜 [孤 (gū) — For the Lonely — And Those who Could Lighten Their Load](proverbs/2025/gu.md)
-3. 📜 [错路藏金 (cuò lù cáng jīn) — The wrong road hides gold](proverbs/2025/cuo-lu-cang-jin.md)
-4. 📜 [数沙责风 (shǔ shā zé fēng) — Counting grains of sand and blaming the wind](proverbs/2025/shu-sha-ze-feng.md)
-5. 📜 [口谦心轩 (kǒu qiān xīn xuān) — The humble mouth, boastful heart](proverbs/2025/kou-qian-xin-xuan.md)
-6. 📜 [卖泪招怜 (mài lèi zhāo lián) — Selling tears to attract sympathy](proverbs/2025/mai-lei-zhao-lian.md)
-7. 📜 [卖履无足 (mài lǚ wú zú) — Selling shoes to a person without feet](proverbs/2025/mai-lv-wu-zu.md)
-8. 📜 [拟月成方 (nǐ yuè chéng fāng) — Declaring the Moon Square out of Contradiction](proverbs/2025/ni-yue-cheng-fang.md)
-9. 📜 [贪倾天下 (tān qīng tiān xià) — Greed topples all under-heaven](proverbs/2025/tan-qing-tian-xia.md)
-10. 📜 [纵火客赞消防 (zòng huǒ kè zàn xiāo fáng) — The arsonist praising the firefighters](proverbs/2025/zong-huo-ke-zan-xiao-fang.md)
-11. 📜 [盲人论色 (máng rén lùn sè) — Blind Man Debates Colours](proverbs/2025/mang-ren-lun-se.md)
-12. 📜 [赶路见星 (gǎn lù jiàn xīng, huǎn xíng jiàn miào) — Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.](proverbs/2025/gan-lu-jian-xing-huan-xing-jian-miao.md)
-13. 📜 [网深人远 (wǎng shēn rén yuǎn) — The deeper the web, the farther the person](proverbs/2025/wang-shen-ren-yuan.md)
-14. 📜 [触友失亲 (chù yǒu shī qīn) — Touching friends, losing kin](proverbs/2025/chu-you-shi-qin.md)
-15. 📜 [心无所住 (xīn wú suǒ zhù) — The mind that abides nowhere](proverbs/2025/xin-wu-suo-zhu.md)
-16. 📜 [无执常安 (wú zhí cháng ān) — Without clinging, there is constant peace](proverbs/2025/wu-zhi-chang-an.md)
-17. 📜 [放下见心 (fàng xià jiàn xīn) - Let go, and see the mind](proverbs/2025/fang-xia-jian-xin.md)
-18. 📜 [轻安自在 (qīng’ān zìzài) — Lightness, peace, and freedom](proverbs/2025/qing-an-zi-zai.md)
-19. 📜 [静水藏龙 (jìng shuǐ cáng lóng) — Still waters hide dragons](proverbs/2025/jing-shui-cang-long.md)
-20. 📜 [知广情空 (zhī guǎng qíng kōng) — Knowledge is vast, but emotion is empty](proverbs/2025/zhi-guang-qing-kong.md)
-21. 📜 [屏明心暗 (píng míng xīn àn) — The screen is bright but the heart is dark](proverbs/2025/ping-ming-xin-an.md)
-22. 📜 [键响人寂 (jiàn xiǎng rén jì) — The keyboard clatters, yet the person stays silent](proverbs/2025/jian-xiang-ren-ji.md)
-23. 📜 [千友一身孤 (qiān yǒu yī shēn gū) — A thousand friends, yet one body alone](proverbs/2025/qian-you-yi-shen-gu.md)
-24. 📜 [闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén) — The window is closed, the world observed — yet the road forgotten, the people unseen](proverbs/2025/bi-chuang-yue-shi-wang-lu-jian-ren.md)
-25. 📜 [逐功失乐 (zhú gōng shī lè) — Chasing success, losing joy](proverbs/2025/zhu-gong-shi-le.md)
-26. 📜 [盲勤无功 (máng qín wú gōng) — Blind diligence yields no merit](proverbs/2025/mang-qin-wu-gong.md)
-27. 📜 [得利失亲 (dé lì shī qīn) — Gain profit, lose kin](proverbs/2025/de-li-shi-qin.md)
-28. 📜 [逐功伤身 (zhú gōng shāng shēn) — Chasing success, harming the body](proverbs/2025/zhu-gong-shang-shen.md)
-29. 📜 [利盛义衰 (lì shèng yì shuāi) - Profit thrives, virtue declines](proverbs/2025/li-sheng-yi-shuai.md)
-30. 📜 [争功失和 (zhēng gōng shī hé) — Fighting for merit, losing harmony](proverbs/2025/zheng-gong-shi-he.md)
-31. 📜 [握紧失爱 (wò jǐn shī ài) - Grip too tightly, lose love](proverbs/2025/wo-jin-shi-ai.md)
-32. 📜 [旧影扰心 (jiù yǐng rǎo xīn) - Old shadows disturb the heart](proverbs/2025/jiu-ying-rao-xin.md)
-33. 📜 [逐完失伴 (zhú wán shī bàn) - Chase perfection, lose companionship](proverbs/2025/zhu-wan-shi-ban.md)
-
-    
-    
-
-    
 
 
 
