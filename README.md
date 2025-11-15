@@ -49,7 +49,7 @@ Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 
 30. 📜 [争功失和 (zhēng gōng shī hé) — Fighting for merit, losing harmony](proverbs/2025/zheng-gong-shi-he.md)
 31. 📜 [握紧失爱 (wò jǐn shī ài) - Grip too tightly, lose love](proverbs/2025/wo-jin-shi-ai.md)
 32. 📜 [旧影扰心 (jiù yǐng rǎo xīn) - Old shadows disturb the heart](proverbs/2025/jiu-ying-rao-xin.md)
-33. 
+33. 📜 [逐完失伴 (zhú wán shī bàn) - Chase perfection, lose companionship](proverbs/2025/zhu-wan-shi-ban.md)
 
     
     
