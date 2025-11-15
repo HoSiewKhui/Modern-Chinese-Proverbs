@@ -11,15 +11,14 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 键响人寂 (jiàn xiǎng rén jì)  
-The keyboard clatters, yet the person stays silent  
+## The keyboard clatters, yet the person stays silent  
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 ________________________________________  
-**图片：**  
+
 （此处可插入书法海报 / 视觉作品）  
 ________________________________________  
 
-**引言：**  
 好友不断上线，心却始终离线。  
 在这个数字喧嚣的时代，每一次敲击键盘都像是对世界的一次呼喊。  
 然而，当回音停止，我们是否真的被听见？  
@@ -27,7 +26,6 @@ ________________________________________
 文字在飞，心却静得出奇。  
 ________________________________________  
 
-## 正文 (Chinese)  
 “键响人寂”，看似是键盘响，人在沉默，  
 实则是一种时代的隐喻。  
 我们在社交媒体上无休止地打字、评论、转发，  
@@ -48,7 +46,8 @@ ________________________________________
 ________________________________________  
 
 **原创声明：**  
-“键响人寂 (jiàn xiǎng rén jì)”为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创构思并正式命名。  
+“键响人寂 (jiàn xiǎng rén jì)”为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创构思并正式命名。 
+
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
@@ -64,21 +63,19 @@ ________________________________________
 
 ________________________________________  
 # 📜 键响人寂 (jiàn xiǎng rén jì)  
-**The keyboard clatters, yet the person stays silent**
+## The keyboard clatters, yet the person stays silent
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
-**Image:**  
+
 (Poster / calligraphy artwork here)  
 ________________________________________  
-
-**Intro Blurb:**  
+ 
 How many of your thousand contacts will sit beside you in silence when you need them most?  
 “键响人寂 (jiàn xiǎng rén jì)” captures a modern irony:  
 fingers fly, notifications buzz, yet hearts remain eerily silent.  
 ________________________________________  
 
-## Body (English)  
 “键响人寂 (jiàn xiǎng rén jì)” means *the keyboard clatters, yet the person stays silent*.  
 It is more than a contradiction. It reflects a modern condition.  
 
