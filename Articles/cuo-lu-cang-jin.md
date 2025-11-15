@@ -46,6 +46,7 @@ ________________________________________
 ________________________________________
 
 🔍 **成语释义**
+
 「错」指非预期、出差错之意  
 「路」即人生路径、抉择方向  
 「藏」表示潜藏、隐匿  
@@ -62,6 +63,7 @@ ________________________________________
 ________________________________________
 
 ✴️ **生活实例分享**
+
 🎫 买错的万字票  
 一位先生习惯性地购买固定的四字号码，结果售票员印错了。  
 原本打算更换，但他想着“就这样吧”便接过票。  
@@ -70,7 +72,8 @@ ________________________________________
 
 ________________________________________
 
-🎓 **专业分错的学生**  
+🎓 **专业分错的学生** 
+
 一名学生原本报读法律系，却因为系统失误而被安排进传播学系。  
 起初失望，但她决定尝试坚持。  
 几年后，她成为一名广受肯定的纪录片导演，用镜头讲述真实与情感。  
@@ -80,6 +83,7 @@ ________________________________________
 ________________________________________
 
 🧭 **适用情境**
+
 你可以在以下情境中使用「错路藏金」：  
 ✔ 回顾人生某个“阴差阳错”却收获满满的决定  
 ✔ 鼓励身边正走在非理想路径上的人继续探索潜能  
@@ -89,6 +93,7 @@ ________________________________________
 ________________________________________
 
 🧠 **与传统成语的区别**
+
 华语世界里，有许多关于错误与接受的成语，例如：  
 • 覆水难收 —— 水已倒出，无法再回  
 • 回头是岸 —— 回头才是解脱  
@@ -102,18 +107,22 @@ ________________________________________
 ________________________________________
 
 ✒️ **原创声明**
+
 “错路藏金 (cuò lù cáng jīn)” —— 此短语为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月原创构思并正式命名，作者为本文作者。  
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
 
 **透明声明**
+
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
 
 ________________________________________
 
 🌿 **作者简介**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。  
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
@@ -155,6 +164,7 @@ Rather, 错路藏金 applies when there is still room for discovery — when a p
 ________________________________________
 
 🔍 **How to Understand It**
+
 错 (cuò) – wrong or unintended  
 路 (lù) – road or path  
 藏 (cáng) – to hide  
@@ -172,6 +182,7 @@ New perspectives, unexpected skills, meaningful relationships, or a calling prev
 ________________________________________
 
 ✴️ **Real-Life Examples**
+
 🎫 The Lottery Ticket  
 A man walks into a shop to buy his usual 4-digit lottery number. The clerk prints the wrong one by mistake. The man, slightly annoyed, takes it anyway.  
 That “wrong number” wins first prize.  
@@ -179,7 +190,8 @@ This is 错路藏金 — the error turned out to be the blessing.
 
 ________________________________________
 
-🎓 The Misdirected Student  
+🎓 The Misdirected Student
+
 A student applies to study law but is placed in media communications due to an application mishap.  
 Disappointed, she decides to continue.  
 Years later, she becomes a respected filmmaker, telling stories that move the world.  
@@ -189,6 +201,7 @@ She looks back and realises this path gave her more than the one she planned.
 ________________________________________
 
 🧭 **When to Use This Proverb**
+
 Use 错路藏金 when:  
 ✔ Reflecting on a past decision that led to unexpected good  
 ✔ Encouraging someone to keep going on an alternative path that still holds promise  
@@ -198,6 +211,7 @@ Use 错路藏金 when:
 ________________________________________
 
 🧠 **How It Fills a Gap in Traditional Proverbs**
+
 Many classical Chinese idioms speak of irreversible consequences or resigned acceptance:  
 • 覆水难收 – Spilt water cannot be gathered  
 • 回头是岸 – Turning back is the shore  
@@ -211,18 +225,22 @@ It suggests that even flawed beginnings can lead to fruitful ends, and that life
 ________________________________________
 
 ✒️ **Authorship Declaration**
+
 “错路藏金 (cuò lù cáng jīn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025, author of this article.  
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
 
 **Transparency statement**
+
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________
 
 🌿 **About the Author**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
