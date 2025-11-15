@@ -59,11 +59,11 @@ ________________________________________
 ________________________________________
 
 **原创声明：**  
-“盲人论色”由何小驹（Hé Xiǎojū / Kenny Ho）于2025年7月创作，特此声明原创出处。  
+“盲人论色”由 何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年7月创作，特此声明原创出处。  
 
 🌿 **Creative Commons License:**  
-Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+Licensed under CC BY 4.0. Please credit 何小驹（Hé Xiǎojū / Ho Siew Khui).  
+采用 CC BY 4.0 授权，请注明作者：何小驹（Hé Xiǎojū / Ho Siew Khui）。  
 
 **透明声明：**  
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
@@ -131,10 +131,10 @@ While this is a newly coined modern proverb, it respectfully acknowledges the cl
 ________________________________________
 
 **Authorship declaration:**  
-“盲人论色 (mángrén lùn sè)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
+“盲人论色 (mángrén lùn sè)” — an original proverb coined by 何小驹（Hé Xiǎojū / Ho Siew Khui）in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
-Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+Licensed under CC BY 4.0. Please credit 何小驹（Hé Xiǎojū / Ho Siew Khui).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
 
 **Transparency statement:**  
@@ -143,7 +143,7 @@ Drafted with AI assistance for clarity; proverb and insights are original by Ho 
 ________________________________________
 
 🌿 **About the Author:**  
-何小驹（Hé Xiǎojū / Kenny Ho） is a writer and creator of modern phrases,  
+何小驹（Hé Xiǎojū / Ho Siew Khui）is a writer and creator of modern phrases,  
 with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
