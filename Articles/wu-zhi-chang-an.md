@@ -123,15 +123,19 @@ May you rest lightly in each passing moment,
 and may peace remain with you whatever comes or goes.
 
 **Authorship Declaration:**
+
 “wú zhí cháng ān (无执常安)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in August 2025.
 
 **🌿 Creative Commons License:**
+
 This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **Transparency statement:**
+
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **🌿 About the Author:**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
 
