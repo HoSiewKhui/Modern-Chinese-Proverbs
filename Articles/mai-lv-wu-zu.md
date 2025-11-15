@@ -35,18 +35,22 @@ ________________________________________
 ________________________________________
 
 **原创声明**
+
 “卖履无足”由何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年7月创作，特此声明原创出处。
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
 **透明声明**
+
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。
 
 ________________________________________
 
 **示例用法**
+
 你这不是卖履无足吗？他根本不需要你的建议。  
 Nǐ zhè bù shì mài lǚ wú zú ma? Tā gēnběn bù xūyào nǐ de jiànyì.  
 “这不是卖履无足吗？他根本用不着你的建议。”  
@@ -58,6 +62,7 @@ Shèjì chǎnpǐn shí yào kǎolǜ yònghù de zhēnshí xūqiú, bié zuò mà
 ________________________________________
 
 🌿 **作者简介**
+
 何小驹（Hé Xiǎojū / Ho Siew Khui），热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
 用简洁的文字，折射现代人生活中的讽刺与省思。  
 
@@ -90,18 +95,22 @@ This proverb is my own creation - a simple expression drawn from observing situa
 ________________________________________
 
 **Authorship Declaration**
+
 “卖履无足 (mài lǚ wú zú)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Ho Siew Khui) in July 2025, author of this article.
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
 **Transparency statement**
+
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 ________________________________________
 
 **Example Usage**
+
 你这不是卖履无足吗？他根本用不上你的建议。  
 Nǐ zhè bù shì mài lǚ wú zú ma? Tā gēnběn yòng bù shàng nǐ de jiànyì.  
 “Aren’t you selling shoes to someone without feet? He really has no use for your advice.”  
@@ -113,6 +122,7 @@ Shèjì chǎnpǐn shí yào kǎolǜ yònghù xūqiú, bié zuò mài lǚ wú zú
 ________________________________________
 
 🌿 **About the Author**
+
 何小驹（Hé Xiǎojū / Ho Siew Khui） is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
 
