@@ -30,18 +30,22 @@ ________________________________________
 ________________________________________
 
 **原创声明**
+
 “卖泪招怜”由何小驹 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月创作，特此声明原创出处。
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
 **透明声明**
+
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。
 
 ________________________________________
 
 **示例用法**
+
 他又在朋友圈发长文诉苦，简直是卖泪招怜。  
 Tā yòu zài péng yǒu quān fā cháng wén sù kǔ, jiǎnzhí shì mài lèi zhāo lián.  
 “He’s posting another long sob story on social media — pure selling tears to attract sympathy.”  
@@ -53,6 +57,7 @@ Bié bèi tā de gùshì piàn le, mài lèi zhāo lián ér yǐ.
 ________________________________________
 
 🌿 **作者简介**
+
 何小驹（Hé Xiǎojū / Kenny Ho），热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
 用简洁的文字，折射现代人生活中的讽刺与省思。  
 
@@ -79,18 +84,22 @@ Short, vivid, and dripping with irony, it lends itself perfectly to describing s
 ________________________________________
 
 **Authorship Declaration**
+
 “卖泪招怜 (mài lèi zhāo lián)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025, author of this article.
 
 🌿 **Creative Commons License**
+
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
 **Transparency statement**
+
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 ________________________________________
 
 **Example Usage**
+
 他又在朋友圈发长文诉苦，简直是卖泪招怜。  
 Tā yòu zài péng yǒu quān fā cháng wén sù kǔ, jiǎnzhí shì mài lèi zhāo lián.  
 “He’s posting another long sob story on social media — pure selling tears to attract sympathy.”  
@@ -102,6 +111,7 @@ Bié bèi tā de gùshì piàn le, mài lèi zhāo lián ér yǐ.
 ________________________________________
 
 🌿 **About the Author**
+
 何小驹 (Hé Xiǎojū / Kenny Ho) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
 
