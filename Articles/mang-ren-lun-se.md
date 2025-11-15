@@ -121,7 +121,7 @@ ________________________________________
 
 ________________________________________
 
-🔹 **Acknowledgement of classical roots:** 
+🔹 **Acknowledgement of classical roots:**
 While this is a newly coined modern proverb, it respectfully acknowledges the classical idiom **以盲辨色 (yǐ máng biàn sè)** from *Xunzi (荀子)*.  
 • **以盲辨色** describes assigning futile tasks to the unqualified.  
 • **盲人论色** shifts the focus sharply to self-appointed experts who presumptuously debate what they cannot comprehend –  
