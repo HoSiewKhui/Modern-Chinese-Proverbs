@@ -34,6 +34,7 @@ ________________________________________
 ________________________________________
 
 **原创声明：**
+
 “数沙责风”由 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于 2025年7月 创作，特此声明原创出处。  
 本文作者即为原创者本人。
 
@@ -58,6 +59,7 @@ Bié tiāntiān shǔ shā zé fēng, shēnghuó huì qīngsōng hěn duō!
 ________________________________________
 
 🌿 **作者简介：**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) ，热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。用简洁的文字，折射现代人生活中的讽刺与省思。
 
 ---
@@ -110,4 +112,5 @@ Bié tiāntiān shǔ shā zé fēng, shēnghuó huì qīngsōng hěn duō!
 ________________________________________
 
 🌿 **About the Author:**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
