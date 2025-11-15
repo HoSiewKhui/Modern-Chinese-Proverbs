@@ -21,7 +21,8 @@ ________________________________________
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________
 
-## 💠 写给所有疲惫不堪的人
+**💠 写给所有疲惫不堪的人**
+
 在这个效率至上的年代，人们不仅在工作，更是在奔跑。  
 为了家人奔跑，  
 为了生活奔跑，  
@@ -46,7 +47,8 @@ ________________________________________
 
 ________________________________________
 
-## 🔎 箴言释义
+**🔎 箴言释义**
+
 “赶路见星，缓行见妙”承袭了中国传统智慧中阴阳调和之理，揭示了两种人生节奏下的不同结局：  
 • 赶路者，心急如焚，身心俱疲，终至眼花缭乱，头晕目眩，“见星”即此象征；  
 • 缓行者，步履从容，心境清明，方能“见妙”-体会到那些原本被忽略的细节与智慧。  
@@ -66,18 +68,22 @@ ________________________________________
 
 ________________________________________
 
-## 原创声明
+**原创声明**
+
 「赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年7月原创命名之现代箴言。
 
-## 🌿 创作共享许可
+**🌿 创作共享许可**
+
 本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
-## 透明声明
+**透明声明**
+
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
 
 ________________________________________
 
-## 🌿 作者简介
+**🌿 作者简介**
+
 何小驹（Hé Xiǎojū / Ho Siew Khui）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。  
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
@@ -94,7 +100,8 @@ ________________________________________
 (Poster / Calligraphy Artwork Placeholder)  
 ________________________________________
 
-## 💠 Foreword: For All Who Are Tired
+**💠 Foreword: For All Who Are Tired**
+
 In this age of endless productivity, people are not just working - they are running.  
 They run for their families.  
 They run for security.  
@@ -122,7 +129,8 @@ It honours your effort and gently invites you to rest.
 
 ________________________________________
 
-## 🔎 Explanation of the Proverb
+**🔎 Explanation of the Proverb**
+
 This modern four-character phrase embodies yin-yang balance, a hallmark of traditional Chinese wisdom.  
 It describes two distinct outcomes:  
 • When we rush (赶路), we lose balance, burn out and “see stars” - a metaphor describing dizziness and exhaustion.  
@@ -144,18 +152,22 @@ Use this phrase as:
 
 ________________________________________
 
-## Authorship Declaration
+**Authorship Declaration**
+
 “gǎn lù jiàn xīng, huǎn xíng jiàn miào (赶路见星，缓行见妙)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in July 2025.
 
-## 🌿 Creative Commons License
+**🌿 Creative Commons License**
+
 Licensed under CC BY 4.0 — credit Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
-## Transparency statement
+**Transparency statement**
+
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 ________________________________________
 
-## 🌿 About the Author
+**🌿 About the Author**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition.  
 His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
