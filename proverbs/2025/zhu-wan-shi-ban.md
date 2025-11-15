@@ -31,29 +31,29 @@ ________________________________________
 
 ________________________________________
 
-## **原创声明：**
+## **原创声明**
 
 「逐完失伴 (zhú wán shī bàn)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年11月原创命名之现代箴言。
 
-## **创作共享许可：**
+## **创作共享许可**
 
 本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
 
-## **透明声明：**
+## **透明声明**
 
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
 
 ________________________________________
 
-## 🌿 作者简介：
+## 🌿 作者简介
 
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 ________________________________________
 
 # 📜 逐完失伴 (zhú wán shī bàn)
-## Chase perfection, lose companionship  
-Seeking the flawless may cost the faithful
+## Chase perfection, lose companionship
+### Seeking the flawless may cost the faithful
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
