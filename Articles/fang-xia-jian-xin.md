@@ -24,7 +24,8 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-## 字词拆解
+**字词拆解**
+
 - **放**：放开、释放  
 - **下**：向下、放下执念  
 - **见**：见到、照见  
@@ -34,14 +35,16 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-## 含义阐释
+**含义阐释**
+
 人生许多苦，不在于外境，而在于我们握得太紧。放下，不是放弃责任，也不是麻木退缩，而是卸下不必要的执著。  
 
 “放下见心”讲的是这个道理：当念头歇息、情绪沉静，心自然明净可见。不是去追求一个“更好”的自己，而是停下奔跑，看见早已在的清澈。  
 
 ---
 
-## 法义连结
+**法义连结**
+
 本句意涵紧扣四圣谛之第三谛：“灭苦之道，在于灭除渴爱。”  
 
 《法句经》有言：  
@@ -52,7 +55,8 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-## 今日修持法门
+**今日修持法门**
+
 **“标记法”——轻柔地觉察当下**  
 
 当你起烦恼、情绪波动，试着停一口气。默念一句：  
@@ -64,7 +68,8 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-## 延伸阅读推荐
+**延伸阅读推荐**
+
 若愿更深入体会本句内涵，可参考以下经典：  
 - 《法句经》（“心品”、“喜乐品”尤为相关）  
 - 《般若心经》（观照“色即是空、空即是色”之义）  
@@ -72,7 +77,8 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-## 结语祝愿
+**结语祝愿**
+
 愿你学会温柔地放，  
 愿你在放下的空隙中，看见内心本有的光。  
 
@@ -105,7 +111,8 @@ Let go, and see the mind
 
 ---
 
-## Literal Character Breakdown
+**Literal Character Breakdown**
+
 - **放 (fàng):** To release, to let go  
 - **下 (xià):** Downward, downward movement  
 - **见 (jiàn):** To see, to perceive clearly  
@@ -115,7 +122,8 @@ These four characters guide us back to the centre — not to chase the world, bu
 
 ---
 
-## Meaning
+**Meaning**
+
 Letting go isn’t an act of giving up. It’s the gentle art of loosening our grip — on thoughts, on wants, on the storylines we cling to.  
 
 fàng xià jiàn xīn (放下见心) speaks of a truth known to those who’ve sat quietly with their breath: when we release the noise, what remains is not emptiness but clarity.  
@@ -124,7 +132,8 @@ This proverb reminds us that the heart’s natural state is not chaos but stilln
 
 ---
 
-## Connection to the Dharma
+**Connection to the Dharma**
+
 Rooted in the Third Noble Truth, this phrase echoes the Buddha’s insight: suffering ends where clinging ends. The mind does not need to be filled — it needs to be freed.  
 
 In the Dhammapada, it is said:  
@@ -135,7 +144,8 @@ This is not a call to detach coldly, but to hold things lightly. When the hand i
 
 ---
 
-## A Practical Tip for Today
+**A Practical Tip for Today**
+
 **The Noting Practice**  
 
 When a thought, memory, or feeling arises — pause with it. Take one breath. Then softly note what is here.  
@@ -149,7 +159,8 @@ That simple naming creates space. You are not the emotion. You are the one who s
 
 ---
 
-## Further Reading
+**Further Reading**
+
 To go deeper into the heart of this teaching:  
 - The Dhammapada (especially chapters on “The Mind” and “Craving”)  
 - The Heart Sutra (for the clarity of seeing through form and thought)  
@@ -157,7 +168,8 @@ To go deeper into the heart of this teaching:
 
 ---
 
-## Final Blessing
+**Final Blessing**
+
 May you learn the strength of a soft release,  
 and in your stillness, discover the quiet joy of coming home to yourself.  
 
