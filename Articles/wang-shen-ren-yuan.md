@@ -122,7 +122,7 @@ Not everything meaningful comes through a screen.
 
 ---
 
-**Authorship declaration:**
+**Authorship Declaration:**
 
 “网深人远 (wǎng shēn rén yuǎn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025, author of this article.  
 
