@@ -82,7 +82,7 @@ May this proverb serve as a quiet reminder in your own life and work.
 
 ________________________________________
 
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “贪倾天下 (tān qīng tiān xià)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
