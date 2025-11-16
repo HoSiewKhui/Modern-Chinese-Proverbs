@@ -72,7 +72,7 @@ At its heart, this phrase highlights a twisted kind of behaviour: causing harm a
 
 ________________________________________
 
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
