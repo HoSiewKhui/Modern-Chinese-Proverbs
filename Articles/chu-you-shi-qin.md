@@ -128,7 +128,7 @@ We can embrace the digital world without sacrificing the people who matter most.
 
 ________________________________________
 
-**Authorship declaration:**
+**Authorship Declaration:**
 
 “触友失亲 (chù yǒu shī qīn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025, author of this article.
 
