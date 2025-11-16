@@ -99,7 +99,7 @@ In a meeting, a manager begins with “I lack experience” but immediately list
 May this proverb serve as a subtle but sharp way of recognising hidden boasting. Let it help us appreciate and laugh at these familiar quirks of human behaviour.  
 ________________________________________
 
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “口谦心炫 (kǒu qiān xīn xuàn)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
