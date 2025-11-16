@@ -4,6 +4,11 @@
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
+________________________________________
+
+(Insert poster here)
+________________________________________
+
 **字词拆解**
 
 **无：** 没有、放开
@@ -44,6 +49,8 @@
 愿你在流转中不失从容，
 愿安宁常伴你心。
 
+________________________________________
+
 **原创声明：**
 
 「无执常安 (wú zhí cháng ān)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创命名之现代箴言。
@@ -56,11 +63,13 @@
 
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
 
+________________________________________
+
 **🌿 作者简介：**
 
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
-
+________________________________________
 
 
 
@@ -69,6 +78,11 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 **Without clinging, there is constant peace**
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
+
+________________________________________
+
+(Insert poster here)
+________________________________________
 
 **Literal Character Breakdown**
 
@@ -114,6 +128,8 @@ For deeper reflection:
 May you rest lightly in each passing moment,
 and may peace remain with you whatever comes or goes.
 
+________________________________________
+
 **Authorship Declaration:**
 
 “wú zhí cháng ān (无执常安)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in August 2025.
@@ -126,9 +142,14 @@ This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé
 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
+________________________________________
+
 **🌿 About the Author:**
 
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+
+________________________________________
+
 
 
 
