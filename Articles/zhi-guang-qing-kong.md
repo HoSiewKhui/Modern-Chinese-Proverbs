@@ -126,7 +126,7 @@ In a world where the mind is always fed, the heart still needs nourishment.
 
 ---
 
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “知广情空 (zhī guǎng qíng kōng)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025, author of this article.  
 
 **🌿 Creative Commons License:**  
