@@ -126,7 +126,7 @@ An invitation to remember that light can distract us but it cannot replace feeli
 We must ask ourselves: what are we really feeding — the eyes or the heart?  
 
 ________________________________________  
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “屏明心暗 (píng míng xīn àn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025, author of this article.  
 
 **🌿 Creative Commons License:**  
