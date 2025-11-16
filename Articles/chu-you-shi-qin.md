@@ -17,7 +17,11 @@ source_platforms: [Medium, GitHub]
 
 📜 本文含中英文版本
 
-此短语为何小驹 (Hé Xiǎojū / Ho Siew Khui) 于2025年8月原创构思并正式命名。
+________________________________________
+
+(Insert poster here)
+
+________________________________________
 
 📖 如今，我们与千里之外的人轻松保持联系，却与身边至亲日渐疏远。
 “触友失亲” 点出这一时代的无声交换：朋友越来越多，亲情却越来越薄。
@@ -48,6 +52,8 @@ source_platforms: [Medium, GitHub]
 两者并列，对比鲜明，提醒我们：不要将短暂的屏幕互动误认为深刻的情感联结。
 一旦疏离发生，往往悄无声息，待我们察觉时，也许已难以挽回。
 
+________________________________________
+
 **思考：**
 
 你有多久没和身边的亲人，真正说上一句温暖的话？
@@ -55,6 +61,8 @@ source_platforms: [Medium, GitHub]
 “触友失亲” 不是责备，而是一句自我提醒。
 提醒我们，在享受网络带来的便利时，也别忘了身边最真挚的关系。
 荧幕随时都在，亲人却不会永远等待。
+
+________________________________________
 
 **原创声明：**
 
@@ -69,12 +77,13 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。
 
+________________________________________
+
 **🌿 作者简介：**
 
 Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
-
-
+________________________________________
 
 
 # 触友失亲 (chù yǒu shī qīn)
@@ -82,6 +91,12 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 **Touching friends, losing kin**
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本
+
+________________________________________
+
+Insert Poster here
+
+________________________________________
 
 📖 We live in an age where it’s easy to stay in touch with hundreds of people through a screen yet somehow drift away from those just a few steps away. This modern proverb reflects a quiet trade-off many are making: gaining digital friendships while losing real kinship.
 
@@ -101,6 +116,8 @@ Online friendships are easy to access and quick to spark. But real-world relatio
 
 What makes this phrase especially meaningful is the subtle wordplay within it. The word “触 (chù)” refers both to touchscreen interaction and to the act of emotionally reaching someone. “亲 (qīn)” means kin or family, the people who are emotionally closest to us. This contrast serves as a reminder not to mistake digital contact for true connection. If we are not careful, the loss may happen quietly and gradually and by the time we notice, it may already be too late.
 
+________________________________________
+
 **🌱 Reflection:**
 
 When was the last time you sat with someone you love and gave them your full attention?
@@ -108,6 +125,8 @@ When was the last time you sat with someone you love and gave them your full att
 “触友失亲” offers a moment of pause, not to scold but to guide. It reminds us that connection is not just about frequency but about presence and sincerity.
 
 We can embrace the digital world without sacrificing the people who matter most. But this requires intention. The screen will always be there. The ones who love us may not always wait.
+
+________________________________________
 
 **Authorship declaration:**
 
@@ -121,6 +140,8 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 **Transparency statement:**
 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
+
+________________________________________
 
 **🌿 About the Author:**
 
