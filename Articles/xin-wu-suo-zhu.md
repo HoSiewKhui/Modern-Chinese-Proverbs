@@ -17,7 +17,11 @@ source_platforms: [Medium, GitHub]
 
 心若无住，自在无碍
 
+________________________________________
+
 📜 本文含中英文版本 / This article contains both English and Chinese versions
+
+________________________________________
 
 **字词拆解**
 
@@ -66,6 +70,8 @@ source_platforms: [Medium, GitHub]
 愿你之心，如澄净长空，
 无所依附，却能容纳万物。
 
+________________________________________
+
 **原创声明：**
 
 「心无所住 (xīn wú suǒ zhù)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创命名之现代箴言。
@@ -78,6 +84,8 @@ source_platforms: [Medium, GitHub]
 
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
 
+________________________________________
+
 **🌿 作者简介：**
 
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
@@ -87,7 +95,11 @@ ________________________________________
 
 The mind that abides nowhere
 
+________________________________________
+
 📜 本文含中英文版本 / This article contains both English and Chinese versions
+
+________________________________________
 
 **Literal Character Breakdown**
 
@@ -136,6 +148,8 @@ For a deeper connection with this teaching:
 May your mind rest like a clear sky,
 holding nothing, yet open to everything.
 
+________________________________________
+
 **Authorship Declaration:**
 
 “xīn wú suǒ zhù (心无所住)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in August 2025.
@@ -148,9 +162,13 @@ This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé
 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
+________________________________________
+
 **🌿 About the Author:**
 
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+
+________________________________________
 
 
 
