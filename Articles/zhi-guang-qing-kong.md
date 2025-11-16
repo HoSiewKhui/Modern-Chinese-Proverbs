@@ -17,12 +17,10 @@ source_platforms: [Medium, GitHub]
 知识宽广，情感空虚  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
-
-此短语为何小驹 (Hé Xiǎojū / Ho Siew Khui) 于2025年8月原创构思并正式命名。  
-
+  
 ---
   
-（此处放置海报 / 书法作品，表现思绪饱满却内心寂寥的对比意境）  
+（此处放置海报）  
 
 ---  
 
@@ -91,7 +89,7 @@ Knowledge is vast, but emotion is empty
 
 ---
   
-(Poster / calligraphy artwork here — visual to reflect the contrast between mental stimulation and emotional numbness)  
+(Poster / calligraphy artwork here)  
 
 --- 
   
