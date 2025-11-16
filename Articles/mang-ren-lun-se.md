@@ -17,7 +17,7 @@ source_platforms: [Medium, GitHub]
 这是我创造的一句现代格言，灵感来源于中国传统成语，但特别针对当下社会而作，意在对今日世界中充斥的“无知却自信”的现象提出犀利批判。  
 ________________________________________
 
-🖼️ [insert picture here]  
+[insert picture here]  
 ________________________________________
 
 **🔹 格言：**  
@@ -83,7 +83,7 @@ ________________________________________
 This is a modern proverb I coined, inspired by classical Chinese idiomatic tradition but created as a sharp critique for today’s world.  
 ________________________________________
 
-🖼️ [insert picture here]  
+[insert picture here]  
 ________________________________________
 
 **🔹 Proverb:**  
@@ -130,7 +130,7 @@ While this is a newly coined modern proverb, it respectfully acknowledges the cl
 
 ________________________________________
 
-**Authorship declaration:**  
+**Authorship Declaration:**  
 “盲人论色 (mángrén lùn sè)” — an original proverb coined by 何小驹（Hé Xiǎojū / Ho Siew Khui）in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
