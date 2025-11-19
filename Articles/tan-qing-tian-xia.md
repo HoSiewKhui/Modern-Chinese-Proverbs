@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 贪倾天下 (tān qīng tiān xià)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -11,7 +11,8 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 贪倾天下 (tān qīng tiān xià)
-## Greed topples all-under-heaven  
+## Greed topples all-under-heaven 
+
 📜 本文含中英文版本，介绍这句原创短语的起源、含义与当代意义。  
 ________________________________________
 
@@ -40,24 +41,25 @@ ________________________________________
 ________________________________________
 
 **原创声明：**  
-“贪倾天下”由何小驹（Hé Xiǎojū / Kenny Ho）于2025年7月创作，特此声明原创出处。  
+“贪倾天下”由Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月创作，特此声明原创出处。  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
 
 ________________________________________
   
 🌿 **作者简介:**  
-何小驹（Hé Xiǎojū / Kenny Ho）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
 ________________________________________
 
 # 📜 贪倾天下 (tān qīng tiān xià)
-## Greed topples all-under-heaven  
+## Greed topples all-under-heaven 
+
 📜 This article contains both English and Chinese versions, exploring the origins, meaning, and modern relevance of this original phrase.  
 ________________________________________
 
@@ -83,11 +85,11 @@ May this proverb serve as a quiet reminder in your own life and work.
 ________________________________________
 
 **Authorship Declaration:**  
-“贪倾天下 (tān qīng tiān xià)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
+“贪倾天下 (tān qīng tiān xià)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
@@ -95,7 +97,7 @@ Drafted with AI assistance for clarity; proverb and insights are original by Ho 
 ________________________________________
 
 🌿 **About the Author:**  
-何小驹（Hé Xiǎojū / Kenny Ho） is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
 
 ---
 
