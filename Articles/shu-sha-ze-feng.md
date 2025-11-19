@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 数沙责风 (shǔ shā zé fēng)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -39,10 +39,10 @@ ________________________________________
 本文作者即为原创者本人。
 
 🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。
 
 ________________________________________
 
@@ -88,7 +88,7 @@ This phrase serves as a critique of habitual complainers who exhaust themselves 
 ________________________________________
 
 **Authorship Declaration:**  
-“shǔ shā zé fēng (数沙责风)” — an original proverb coined by Ho Siew Khui (Hé Xiǎojū) in July 2025.  
+“shǔ shā zé fēng (数沙责风)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025.  
 The author of this article is the originator of the phrase.
 
 🌿 **Creative Commons License:**  
