@@ -1,7 +1,7 @@
 <!--
 [Metadata]
 title: "📜 轻安自在 (qīng’ān zìzài)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -71,13 +71,13 @@ source_platforms: [Medium, GitHub]
 ---
 
 **原创声明：**  
-「轻安自在 (qīng’ān zìzài)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创命名之现代箴言。  
+「轻安自在 (qīng’ān zìzài)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年8月原创命名之现代箴言。  
 
 **🌿 创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ---
 
@@ -146,7 +146,7 @@ and may the taste of that lightness guide you toward freedom.
 ---
 
 **Authorship Declaration:**  
-“qīng’ān zìzài (轻安自在)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in August 2025.  
+“qīng’ān zìzài (轻安自在)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025.  
 
 **🌿 Creative Commons License:**  
 This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
