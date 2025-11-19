@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 旧影扰心 (jiù yǐng rǎo xīn)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -35,13 +35,13 @@ ________________________________________
 ________________________________________
 
  **原创声明：**  
-「旧影扰心 (jiù yǐng rǎo xīn)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年11月原创命名之现代箴言。  
+「旧影扰心 (jiù yǐng rǎo xīn)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年11月原创命名之现代箴言。  
 
 🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ________________________________________
 
@@ -77,17 +77,17 @@ Trust grows when we release yesterday and focus on today.
 ________________________________________
 
 **Authorship Declaration:**  
-“jiù yǐng rǎo xīn (旧影扰心)” is an original modern proverb coined by **Ho Siew Khui 何小驹 (Hé Xiǎojū)** in November 2025.  
+“jiù yǐng rǎo xīn (旧影扰心)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in November 2025.  
 
 🌿 **Creative Commons License:**  
-Licensed under CC BY 4.0 — credit to **Ho Siew Khui 何小驹 (Hé Xiǎojū)** as required under the terms.  
+Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.  
 
 **Transparency statement:**  
-Drafted with AI assistance for clarity; proverb and insights are original by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**.  
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________
 
 🌿 **About the Author:**  
-**Ho Siew Khui 何小驹 (Hé Xiǎojū)** is a writer and creator of modern phrases,  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases,  
 with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition.  
 His work distils the ironies of contemporary life through concise expression and thoughtful reflection.  
