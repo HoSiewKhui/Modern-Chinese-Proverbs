@@ -1,7 +1,7 @@
 <!--
 [Metadata]
 title: "📜 屏明心暗 (píng míng xīn àn)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -66,10 +66,10 @@ ________________________________________
 
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
 
 ________________________________________  
 **🌿 作者简介：**  
@@ -131,7 +131,7 @@ ________________________________________
 
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
