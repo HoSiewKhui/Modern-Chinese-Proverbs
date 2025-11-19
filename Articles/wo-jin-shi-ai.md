@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 握紧失爱 (wò jǐn shī ài)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -29,13 +29,13 @@ ________________________________________
 ________________________________________  
 
 **原创声明：**  
-「握紧失爱 (wò jǐn shī ài)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年11月原创命名之现代箴言。  
+「握紧失爱 (wò jǐn shī ài)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年11月原创命名之现代箴言。  
 
 **🌿 创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 ________________________________________  
 
 🌿 **作者简介：**  
@@ -62,7 +62,7 @@ If you are afraid of losing love, try loosening your grip. Freedom may be the ve
 ________________________________________  
 
 **Authorship Declaration:**  
-“wò jǐn shī ài (握紧失爱)” is an original modern proverb coined by **Ho Siew Khui 何小驹 (Hé Xiǎojū)** in November 2025.  
+“wò jǐn shī ài (握紧失爱)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in November 2025.  
 
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.  
