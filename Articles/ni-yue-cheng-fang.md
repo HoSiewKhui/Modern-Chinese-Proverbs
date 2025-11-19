@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 逆月称方 (nì yuè chēng fāng)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -37,11 +37,11 @@ source_platforms: [Medium, GitHub]
 
 🌿**创作共享许可：**
 
-本作品采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+本作品采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明：**
 
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆为何小驹原创。
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆为Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。
 
 ---
 
