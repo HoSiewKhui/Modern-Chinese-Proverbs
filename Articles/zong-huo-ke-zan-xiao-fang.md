@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -34,19 +34,19 @@ ________________________________________
 ________________________________________
 
 **原创声明：**  
-“纵火客赞消防”由何小驹（Hé Xiǎojū / Kenny Ho）于2025年7月创作，特此声明原创出处。  
+“纵火客赞消防”由Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月创作，特此声明原创出处。  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
 
 ________________________________________
 
 🌿 **作者简介：**  
-何小驹（Hé Xiǎojū / Kenny Ho）是一位现代语句的创作者与文字工作者，热爱中国语言、文化与传统的细腻与优雅。他的作品通过简练的表达与深思的观察，凝炼当代生活的讽刺与微妙之处。  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代语句的创作者与文字工作者，热爱中国语言、文化与传统的细腻与优雅。他的作品通过简练的表达与深思的观察，凝炼当代生活的讽刺与微妙之处。  
 
 ________________________________________
 
@@ -73,11 +73,11 @@ At its heart, this phrase highlights a twisted kind of behaviour: causing harm a
 ________________________________________
 
 **Authorship Declaration:**  
-“纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)” — an original proverb coined by 何小驹 (Hé Xiǎojū / Kenny Ho) in July 2025, author of this article.  
+“纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025, author of this article.  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
@@ -85,7 +85,7 @@ Drafted with AI assistance for clarity; proverb and insights are original by Ho 
 ________________________________________
 
 🌿 **About the Author:**  
-何小驹（Hé Xiǎojū / Kenny Ho）is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
 ---
 
