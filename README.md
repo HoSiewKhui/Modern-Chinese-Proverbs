@@ -87,13 +87,15 @@ Drafted with AI assistance for clarity; all proverbs and insights are original b
 This Transparency Statement applies to **all proverb articles in this repository**.  
 本透明声明适用于本库中所有短语文章。
 
-## External References  
+## External References
 
-These original modern Chinese proverbs and sayings by Ho Siew Khui 何小驹 (Hé Xiǎojū) are also published across multiple platforms for wider readership and long-term attribution:  
+These original modern Chinese proverbs and sayings by **Ho Siew Khui 何小驹 (Hé Xiǎojū)** are also published across multiple platforms for wider readership, public attribution, and long-term discoverability:
 
-- [Medium](https://medium.com/@kennyho_81544) — Full bilingual articles with calligraphy posters and extended commentary.    
-- [LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/recent-activity/all/) — Shared with professional and cultural communities.
+- **Medium** – Full bilingual articles with calligraphy posters and extended commentary.  
+- **LinkedIn** – Shared with professional and cultural communities.  
+- **Instagram** – Visual posters and selected proverb excerpts for public visibility and enhanced search discoverability.
 
-- **Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, 何小驹, Hé Xiǎojū contemporary Chinese expressions
+**Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, 何小驹, Hé Xiǎojū, contemporary Chinese expressions
+
 
 
