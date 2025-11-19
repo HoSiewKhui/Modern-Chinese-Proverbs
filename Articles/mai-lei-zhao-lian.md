@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 卖泪招怜 (mài lèi zhāo lián)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -31,16 +31,16 @@ ________________________________________
 
 **原创声明**
 
-“卖泪招怜”由何小驹 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月创作，特此声明原创出处。
+“卖泪招怜”由Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月创作，特此声明原创出处。
 
 🌿 **Creative Commons License**
 
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明**
 
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。
 
 ________________________________________
 
@@ -58,7 +58,7 @@ ________________________________________
 
 🌿 **作者简介**
 
-何小驹（Hé Xiǎojū / Kenny Ho），热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
+Ho Siew Khui 何小驹 (Hé Xiǎojū)，热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。  
 用简洁的文字，折射现代人生活中的讽刺与省思。  
 
 ________________________________________
@@ -90,7 +90,7 @@ ________________________________________
 🌿 **Creative Commons License**
 
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **Transparency statement**
 
@@ -112,7 +112,7 @@ ________________________________________
 
 🌿 **About the Author**
 
-何小驹 (Hé Xiǎojū / Kenny Ho) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
 His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
 
 
