@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 键响人寂 (jiàn xiǎng rén jì)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -46,18 +46,18 @@ ________________________________________
 ________________________________________  
 
 **原创声明：**  
-“键响人寂 (jiàn xiǎng rén jì)”为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创构思并正式命名。 
+“键响人寂 (jiàn xiǎng rén jì)”为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年8月原创构思并正式命名。 
 
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由何小驹原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
 ________________________________________  
 
 **🌿 作者简介：**  
-何小驹（Hé Xiǎojū / Ho Siew Khui）是一位现代短语的创作者与书写者，  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，  
 热爱中文语言之美、文化的细腻与传统的智慧。  
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
@@ -100,7 +100,7 @@ ________________________________________
 
 **🌿 Creative Commons License:**  
 Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
