@@ -1,7 +1,7 @@
 <!--
 [Metadata]
 title: "📜 心无所住 (xīn wú suǒ zhù)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -74,15 +74,15 @@ ________________________________________
 
 **原创声明：**
 
-「心无所住 (xīn wú suǒ zhù)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年8月原创命名之现代箴言。
+「心无所住 (xīn wú suǒ zhù)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年8月原创命名之现代箴言。
 
 **🌿 创作共享许可：**
 
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明：**
 
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ________________________________________
 
@@ -152,7 +152,7 @@ ________________________________________
 
 **Authorship Declaration:**
 
-“xīn wú suǒ zhù (心无所住)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in August 2025.
+“xīn wú suǒ zhù (心无所住)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025.
 
 **🌿 Creative Commons License:**
 
