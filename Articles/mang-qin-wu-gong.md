@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 盲勤无功 (máng qín wú gōng)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author:  Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -36,13 +36,13 @@ James 发现，公司经常需要参加新业务的投标，而这类投标往�
 
 ________________________________________  
 **原创声明：**  
-「盲勤无功 (máng qín wú gōng)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年9月原创命名之现代箴言。  
+「盲勤无功 (máng qín wú gōng)」为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年9月原创命名之现代箴言。  
 
 🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者 Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ________________________________________  
 🌿 **作者简介：**  
@@ -76,7 +76,7 @@ Do not let blind diligence drain your life. Work hard but work smart so that you
 
 ________________________________________  
 **Authorship Declaration:**  
-“máng qín wú gōng (盲勤无功)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in September 2025.  
+“máng qín wú gōng (盲勤无功)” is an original modern proverb coined by  Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025.  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.  
