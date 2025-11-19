@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 逐功失乐 (zhú gōng shī lè)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -33,13 +33,13 @@ source_platforms: [Medium, GitHub]
 ---
 
 **原创声明：**  
-「逐功失乐 (zhú gōng shī lè)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年9月原创命名之现代箴言。
+「逐功失乐 (zhú gōng shī lè)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年9月原创命名之现代箴言。
 
 🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ---
 
@@ -71,7 +71,7 @@ Do not chase success so hard that you lose the joy of living. Let your work serv
 ---
 
 **Authorship Declaration:**  
-“zhú gōng shī lè (逐功失乐)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in September 2025.
+“zhú gōng shī lè (逐功失乐)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025.
 
 🌿 **Creative Commons License:**  
 This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
