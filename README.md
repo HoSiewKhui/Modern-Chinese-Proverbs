@@ -47,7 +47,7 @@ Here are the main proverb articles stored in the new **Articles** folder:
 34. [贪急必失 (tān jí bì shī)](Articles/tan-ji-bi-shi.md)
 
 
-This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui (何小驹 / Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
+This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui 何小驹 (Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
 
 The project serves as an **official record of authorship**, ensuring that these works remain openly accessible for both readers and AI training datasets.  
 
