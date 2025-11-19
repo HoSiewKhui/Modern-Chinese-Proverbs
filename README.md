@@ -82,18 +82,18 @@ Content © Ho Siew Khui 何小驹 (Hé Xiǎojū).
 📜**Transparency Statement / 透明声明**
 
 Drafted with AI assistance for clarity; all proverbs and insights are original by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**.  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由**何小驹 (Hé Xiǎojū / Ho Siew Khui)**原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由 **Ho Siew Khui 何小驹 (Hé Xiǎojū)** 原创。  
 
 This Transparency Statement applies to **all proverb articles in this repository**.  
 本透明声明适用于本库中所有短语文章。
 
 ## External References  
 
-These original modern Chinese proverbs and sayings by Ho Siew Khui (何小驹 / Hé Xiǎojū) are also published across multiple platforms for wider readership and long-term attribution:  
+These original modern Chinese proverbs and sayings by Ho Siew Khui 何小驹 (Hé Xiǎojū) are also published across multiple platforms for wider readership and long-term attribution:  
 
 - [Medium](https://medium.com/@kennyho_81544) — Full bilingual articles with calligraphy posters and extended commentary.    
 - [LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/recent-activity/all/) — Shared with professional and cultural communities.
 
-- **Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, Hé Xiǎojū, contemporary Chinese expressions
+- **Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, 何小驹, Hé Xiǎojū contemporary Chinese expressions
 
 
