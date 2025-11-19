@@ -1,7 +1,7 @@
 <!-- 
 [Metadata]
 title: "📜 得利失亲 (dé lì shī qīn)"
-author: Ho Siew Khui (何小驹 Hé Xiǎojū)
+author: Ho Siew Khui 何小驹 (Hé Xiǎojū)
 license: CC-BY-4.0
 tags: #proverb #original #ChineseWisdom #HoSiewKhui #modernchengyu
 language: bilingual (Chinese + English)
@@ -33,13 +33,13 @@ ________________________________________
 
 ________________________________________  
 **原创声明：**  
-「得利失亲 (dé lì shī qīn)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年10月原创命名之现代箴言。  
+「得利失亲 (dé lì shī qīn)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年10月原创命名之现代箴言。  
 
 🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权。转载请注明作者：何小驹 (Hé Xiǎojū / Ho Siew Khui)。  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ________________________________________  
 🌿 **作者简介：**  
@@ -70,7 +70,7 @@ This proverb is not only about parents and their children. It is also about the 
 
 ________________________________________  
 **Authorship Declaration:**  
-“dé lì shī qīn (得利失亲)” is an original modern proverb coined by Ho Siew Khui (Hé Xiǎojū) in October 2025.  
+“dé lì shī qīn (得利失亲)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in October 2025.  
 
 🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.  
