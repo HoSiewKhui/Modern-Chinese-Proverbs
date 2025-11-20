@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 利盛义衰 (lì shèng yì shuāi)
-利得其盛，义却渐衰  
+## 利得其盛，义却渐衰  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
@@ -46,7 +46,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________  
 
 # 📜 利盛义衰 (lì shèng yì shuāi)
-Profit thrives, virtue declines  
+## Profit thrives, virtue declines  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
