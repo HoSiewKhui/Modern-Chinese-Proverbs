@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 卖泪招怜 (mài lèi zhāo lián)
-“Selling tears to attract sympathy”  
+## “Selling tears to attract sympathy”  
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
@@ -62,7 +62,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________
 
 # 📜 卖泪招怜 (mài lèi zhāo lián)
-Selling tears to attract sympathy  
+## Selling tears to attract sympathy  
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
