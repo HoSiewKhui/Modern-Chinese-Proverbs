@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 盲勤无功 (máng qín wú gōng)  
-勤而无智，终归徒劳 
+## 勤而无智，终归徒劳 
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
@@ -51,7 +51,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________  
 
 # 📜 盲勤无功 (máng qín wú gōng)  
-Blind diligence yields no merit  
+## Blind diligence yields no merit  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
