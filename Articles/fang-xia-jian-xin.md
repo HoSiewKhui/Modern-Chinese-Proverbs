@@ -14,7 +14,7 @@ source_platforms: [Medium, GitHub]
 
 
 # 📜 放下见心 (fàng xià jiàn xīn)  
-放手一刻，心自现前  
+## 放手一刻，心自现前  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
@@ -101,7 +101,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ---
 
 # 📜 fàng xià jiàn xīn (放下见心)  
-Let go, and see the mind  
+## Let go, and see the mind  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
