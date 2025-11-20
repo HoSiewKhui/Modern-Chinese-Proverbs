@@ -97,4 +97,5 @@ Drafted with AI assistance for clarity; proverb and insights are original by Ho 
 _______________________________________
 
 🌿 **About the Author**
+
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
