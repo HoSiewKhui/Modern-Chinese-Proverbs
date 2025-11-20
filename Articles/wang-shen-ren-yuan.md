@@ -122,20 +122,16 @@ Not everything meaningful comes through a screen.
 
 ---
 
-**Authorship Declaration:**
+**Authorship Declaration:**  
+“网深人远 (wǎng shēn rén yuǎn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025, author of this article.
 
-“网深人远 (wǎng shēn rén yuǎn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025, author of this article.  
-
-🌿 **Creative Commons License:**  
-Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
+**Creative Commons License:**  
+Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
 **Transparency statement:**  
-Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
 
 ---
 
-🌿 **About the Author:**  
-Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases,  
-with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition.  
-His work distils the ironies of contemporary life through concise
+**About the Author:**  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
