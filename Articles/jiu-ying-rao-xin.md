@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 旧影扰心 (jiù yǐng rǎo xīn)
-往事阴影，扰乱当下
+## 往事阴影，扰乱当下
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________
@@ -53,7 +53,7 @@ ________________________________________
 
 # 📜 旧影扰心 (jiù yǐng rǎo xīn)  
 ## Old shadows disturb the heart  
-The past unsettles the present  
+**The past unsettles the present ** 
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________
