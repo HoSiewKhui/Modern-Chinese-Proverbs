@@ -11,14 +11,17 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào
-越赶越晕星光现，慢行方得妙理明  
+越赶越晕星光现，慢行方得妙理明
+
 ________________________________________
 
 （海报 / 书法作品占位符）  
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________
 
-📜 本文含中英文版本 / This article contains both English and Chinese versions  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
+
 ________________________________________
 
 **💠 写给所有疲惫不堪的人**
@@ -67,36 +70,34 @@ ________________________________________
 
 ________________________________________
 
-**原创声明**
+**原创声明：**  
+「赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月原创命名之现代箴言。  
 
-「赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月原创命名之现代箴言。
+**🌿 创作共享许可：**  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
-**🌿 创作共享许可**
-
-本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者Ho Siew Khui 何小驹 (Hé Xiǎojū)。
-
-**透明声明**
-
+**透明声明：**  
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ________________________________________
 
-**🌿 作者简介**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。  
-他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
+**🌿 作者简介：:**  
+Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 ________________________________________
 
 # 📜 gǎn lù jiàn xīng, huǎn xíng jiàn miào (赶路见星，缓行见妙)
 Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.  
+
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 （海报 / 书法作品占位符）  
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________
 
 **💠 Foreword: For All Who Are Tired**
@@ -150,24 +151,19 @@ Use this phrase as:
 
 ________________________________________
 
-**Authorship Declaration**
-
+**Authorship Declaration:**  
 “gǎn lù jiàn xīng, huǎn xíng jiàn miào (赶路见星，缓行见妙)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025.
 
-**🌿 Creative Commons License**
+**Creative Commons License:**  
+Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
-Licensed under CC BY 4.0 — credit Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
-
-**Transparency statement**
-
-Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
+**Transparency statement:**  
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
 
 ________________________________________
 
-**🌿 About the Author**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition.  
-His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+**About the Author:**  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
 
 
