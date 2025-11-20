@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 卖履无足 (mài lǚ wú zú)
-“Selling shoes to a person without feet”  
+## “Selling shoes to a person without feet”  
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
@@ -69,7 +69,7 @@ ________________________________________
 ________________________________________
 
 # 📜 卖履无足 (mài lǚ wú zú)
-Selling shoes to a person without feet  
+## Selling shoes to a person without feet  
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
