@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 错路藏金 (cuò lù cáng jīn)
-误入之途，亦可得金  
+## 误入之途，亦可得金  
 ________________________________________
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
@@ -106,30 +106,24 @@ ________________________________________
 
 ________________________________________
 
-✒️ **原创声明**
+**原创声明：**  
+“错路藏金 (cuò lù cáng jīn)” —— 此短语为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月原创构思并正式命名，作者为本文作者。    
 
-“错路藏金 (cuò lù cáng jīn)” —— 此短语为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年7月原创构思并正式命名，作者为本文作者。  
+**🌿 创作共享许可：**  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
-🌿 **Creative Commons License**
-
-Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
-
-**透明声明**
-
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
+**透明声明：**  
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ________________________________________
 
-🌿 **作者简介**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。  
-他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
+**🌿 作者简介：:**  
+Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 ________________________________________
 
 # 📜 错路藏金 (cuò lù cáng jīn)
-“The wrong road hides gold”  
+## “The wrong road hides gold”  
 ________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
@@ -224,25 +218,19 @@ It suggests that even flawed beginnings can lead to fruitful ends, and that life
 
 ________________________________________
 
-✒️ **Authorship Declaration**
-
+**Authorship Declaration:**  
 “错路藏金 (cuò lù cáng jīn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025, author of this article.  
 
-🌿 **Creative Commons License**
+**Creative Commons License:**  
+Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
-Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).  
-采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
-
-**Transparency statement**
-
-Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+**Transparency statement:**  
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
 
 ________________________________________
 
-🌿 **About the Author**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition.  
-His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
+**About the Author:**  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
 ---
 
