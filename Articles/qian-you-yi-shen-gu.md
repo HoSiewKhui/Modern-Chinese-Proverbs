@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 千友一身孤 (qiān yǒu yī shēn gū)  
-字面意：朋友千人，孤身一人  
+## 字面意：朋友千人，孤身一人  
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
 ________________________________________  
@@ -56,7 +56,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 ---
 
 # 📜 千友一身孤 (qiān yǒu yī shēn gū)  
-*A thousand friends, yet one body alone*  
+## A thousand friends, yet one body alone 
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
 ________________________________________  
