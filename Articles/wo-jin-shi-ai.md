@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 握紧失爱 (wò jǐn shī ài)  
-越是紧握，越易失去  
+## 越是紧握，越易失去  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
@@ -43,8 +43,8 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________  
 
 # 📜 握紧失爱 (wò jǐn shī ài)  
-Grip too tightly, lose love  
-The tighter the grip, the quicker love slips away  
+## Grip too tightly, lose love  
+**The tighter the grip, the quicker love slips away**  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
