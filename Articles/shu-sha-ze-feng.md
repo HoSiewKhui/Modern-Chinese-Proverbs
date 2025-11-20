@@ -33,16 +33,15 @@ ________________________________________
 
 ________________________________________
 
-**原创声明：**
-
+**原创声明：**  
 “数沙责风”由 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于 2025年7月 创作，特此声明原创出处。  
-本文作者即为原创者本人。
+本文作者即为原创者本人。。
 
-🌿 **创作共享许可：**  
-本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者Ho Siew Khui 何小驹 (Hé Xiǎojū)。
+**🌿 创作共享许可：**  
+本作品采用 CC BY 4.0 协议授权。转载请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。
+本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ________________________________________
 
@@ -58,9 +57,8 @@ Bié tiāntiān shǔ shā zé fēng, shēnghuó huì qīngsōng hěn duō!
 
 ________________________________________
 
-🌿 **作者简介：**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) ，热爱中文语言与文化，专注于创造贴近当代生活的新短语与表达。用简洁的文字，折射现代人生活中的讽刺与省思。
+**🌿 作者简介：:**  
+Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 
 ---
 
@@ -111,6 +109,5 @@ Bié tiāntiān shǔ shā zé fēng, shēnghuó huì qīngsōng hěn duō!
 
 ________________________________________
 
-🌿 **About the Author:**
-
-Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the nuance and elegance of Chinese language, culture, and tradition. His work reflects the ironies of contemporary life through concise expression and thoughtful reflection.
+**About the Author:**  
+Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
