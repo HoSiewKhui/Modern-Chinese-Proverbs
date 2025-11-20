@@ -1,8 +1,8 @@
 🌼 **原创权威记录 (yuán chuàng quán wēi jì lù)** 🌼  
-本仓库所载之现代箴言 (běn cāng kù suǒ zài zhī xiàn dài zhēn yán)，皆为 **何小驹 (Hé Xiǎojū / Ho Siew Khui)** 原创 (yuán chuàng)。  
+本仓库所载之现代箴言 (běn cāng kù suǒ zài zhī xiàn dài zhēn yán)，皆为 **Ho Siew Khui 何小驹 (Hé Xiǎojū)** 原创 (yuán chuàng)。  
 此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dàng)，用以确立作者身份、著作权属 (shǔ míng guī shǔ) 与原创时间证明 (yì yuán chuàng shí jiān zhèng míng)。
 
-Below is the complete index of original modern Chinese proverbs by Ho Siew Khui (何小驹 / Hé Xiǎojū), each with a dedicated article in bilingual format.
+Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 何小驹 (Hé Xiǎojū), each with a dedicated article in bilingual format.
 
 ## Modern Chinese Proverbs  
 ## 📚 Quick Index – Articles
