@@ -35,15 +35,12 @@ ________________________________________
 ________________________________________
 
 **原创声明**
-
 「贪急必失 (tān jí bì shī)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年11月原创命名之现代箴言。
 
 **创作共享许可**
-
 本作品采用 CC BY 4.0 协议授权 —— 使用时请依照授权条款注明作者Ho Siew Khui 何小驹 (Hé Xiǎojū)。
 
 **透明声明**
-
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 
 ________________________________________
@@ -83,7 +80,6 @@ Wisdom lies not in the rush to gain but in the refusal to be pushed.
 ________________________________________
 
 **Authorship Declaration**
-
 “Tān jí bì shī (贪急必失)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in November 2025.
 
 
