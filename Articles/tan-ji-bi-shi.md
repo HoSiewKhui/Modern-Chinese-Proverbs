@@ -85,8 +85,8 @@ ________________________________________
 **Creative Commons License**
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
-**Transparency statement:**
- Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
+**Transparency statement**
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
 
 _______________________________________
 
