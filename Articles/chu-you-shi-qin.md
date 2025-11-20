@@ -83,7 +83,7 @@ ________________________________________
 
 # 触友失亲 (chù yǒu shī qīn)
 
-**Touching friends, losing kin**
+## Touching friends, losing kin
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本
 
