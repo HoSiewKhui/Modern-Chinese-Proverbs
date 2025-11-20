@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 争功失和 (zhēng gōng shī hé)
-为功相争，和气尽失  
+## 为功相争，和气尽失  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
@@ -52,7 +52,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ---
 
 # 📜 争功失和 (zhēng gōng shī hé)  
-Fighting for merit, losing harmony  
+## Fighting for merit, losing harmony  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
