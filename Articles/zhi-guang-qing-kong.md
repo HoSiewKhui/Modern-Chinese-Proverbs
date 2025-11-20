@@ -14,7 +14,7 @@ source_platforms: [Medium, GitHub]
 
 
 # 📜 知广情空 (zhī guǎng qíng kōng)  
-知识宽广，情感空虚  
+## 知识宽广，情感空虚  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
   
@@ -83,7 +83,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 ---
 
 # 📜 知广情空 (zhī guǎng qíng kōng)  
-Knowledge is vast, but emotion is empty  
+## Knowledge is vast, but emotion is empty  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
