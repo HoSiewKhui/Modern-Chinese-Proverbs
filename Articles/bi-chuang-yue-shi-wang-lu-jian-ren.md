@@ -13,9 +13,10 @@ source_platforms: [Medium, GitHub]
 # 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
 ## 字面意：关窗看世界，忘路不见人  
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
 
-本短语为何小驹（Hé Xiǎojū / Ho Siew Khui）原创，探讨数码时代中一种被动而无声的抽离现象。  
+本短语为何小驹（Hé Xiǎojū / Ho Siew Khui）原创，探讨数码时代中一种被动而无声的抽离现象。
+
 ________________________________________  
   
 （此处放置海报 / 书法作品）
@@ -73,6 +74,7 @@ ________________________________________
 7. 闭窗阅世，忘路见人：关窗阅世，任由通路荒芜，人与人不再相见  
 
 如乐章终结的和弦，这句落笔凝练了整部时代断联之曲。  
+
 ________________________________________  
 
 **点睛之问：**  
@@ -103,7 +105,7 @@ ________________________________________
 # 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
 ## The window is closed, the world observed — yet the road forgotten, the people unseen  
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________  
 
@@ -114,6 +116,7 @@ ________________________________________
 In today's hyperconnected world, we watch the world unfold through screens — news, drama, conflict, celebration — all just a scroll away.  
 Yet, in this passive observation, we quietly let fade the roads that lead to genuine encounters.  
 “闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)” captures the quiet drift into philosophical detachment — not out of wisdom but out of convenience, fatigue, or fear.  
+
 ________________________________________  
 
 This proverb, literally translated as *“closing the window to observe the world; forgetting the road and seeing others,”* is a subtle commentary on how digital life has replaced physical experience — and how, in doing so, we lose something essential.  
