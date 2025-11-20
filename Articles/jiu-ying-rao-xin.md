@@ -53,7 +53,7 @@ ________________________________________
 
 # 📜 旧影扰心 (jiù yǐng rǎo xīn)  
 ## Old shadows disturb the heart  
-**The past unsettles the present ** 
+**The past unsettles the present**
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________
