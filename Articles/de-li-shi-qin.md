@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 得利失亲 (dé lì shī qīn)  
-有利可得，亲情却失  
+## 有利可得，亲情却失  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
@@ -48,7 +48,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________  
 
 # 📜 得利失亲 (dé lì shī qīn)  
-Gain profit, lose kin  
+## Gain profit, lose kin  
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
 
