@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 逐功伤身 (zhú gōng shāng shēn)  
-逐利过度，损己之身  
+## 逐利过度，损己之身  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
@@ -44,7 +44,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 
 ________________________________________  
 # 📜 逐功伤身 (zhú gōng shāng shēn)  
-Chasing success, harming the body  
+## Chasing success, harming the body  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
