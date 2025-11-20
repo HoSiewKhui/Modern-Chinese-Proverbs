@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào
-越赶越晕星光现，慢行方得妙理明
+## 越赶越晕星光现，慢行方得妙理明
 
 ________________________________________
 
@@ -87,7 +87,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________
 
 # 📜 gǎn lù jiàn xīng, huǎn xíng jiàn miào (赶路见星，缓行见妙)
-Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.  
+## Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.  
 
 ________________________________________
 
