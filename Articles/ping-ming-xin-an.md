@@ -14,7 +14,7 @@ source_platforms: [Medium, GitHub]
 
 
 # 📜 屏明心暗 (píng míng xīn àn)  
-荧幕明亮，心却黯淡  
+## 荧幕明亮，心却黯淡  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
@@ -78,7 +78,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 ---
 
 # 📜 píng míng xīn àn (屏明心暗)  
-The screen is bright but the heart is dark  
+## The screen is bright but the heart is dark  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 ________________________________________  
