@@ -65,14 +65,15 @@ The proverb does not condemn ambition itself. It reminds us that ambition withou
 Do not let the hunger for gain strip you of virtue. Build your name with integrity, for it is the foundation that no wealth can replace.  
 ________________________________________  
 
-**Authorship Declaration:**
-“lì shèng yì shuāi (利盛义衰)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in October 2025.  
+**Authorship Declaration:**  
+“lì shèng yì shuāi (利盛义衰)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in October 2025.
 
-🌿 **Creative Commons License:**  
-Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.  
+**Creative Commons License:**  
+Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
 **Transparency statement:**  
-Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
+
 ________________________________________  
 
 🌿 **About the Author:**  
