@@ -143,17 +143,18 @@ and may peace remain with you whatever comes or goes.
 
 ________________________________________
 
-**Authorship Declaration:**
-
+ **Authorship Declaration:**
+ 
 “wú zhí cháng ān (无执常安)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in August 2025.
 
-**🌿 Creative Commons License:**
+🌿 **Creative Commons License:**
 
 This work is licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **Transparency statement:**
 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
+
 
 ________________________________________
 
