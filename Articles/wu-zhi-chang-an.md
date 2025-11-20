@@ -13,7 +13,7 @@ source_platforms: [Medium, GitHub]
 
 # 📜 无执常安 (wú zhí cháng ān)
 
-**无所执着，心自安常**
+## 无所执着，心自安常
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -84,7 +84,7 @@ ________________________________________
 
 # 📜 wú zhí cháng ān (无执常安)
 
-**Without clinging, there is constant peace**
+## Without clinging, there is constant peace
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
