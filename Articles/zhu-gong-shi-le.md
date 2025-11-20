@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 逐功失乐 (zhú gōng shī lè)  
-逐利奔功，喜乐渐失
+## 逐利奔功，喜乐渐失
 
 本文含中英文版本 / This article contains both English and Chinese versions
 
