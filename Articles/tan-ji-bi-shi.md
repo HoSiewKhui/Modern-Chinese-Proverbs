@@ -79,18 +79,13 @@ Wisdom lies not in the rush to gain but in the refusal to be pushed.
 ________________________________________
 
 **Authorship Declaration**
-
 “Tān jí bì shī (贪急必失)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in November 2025.
 
-
 **Creative Commons License**
-
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
 **Transparency statement**
-
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū)
-
 
 _______________________________________
 
