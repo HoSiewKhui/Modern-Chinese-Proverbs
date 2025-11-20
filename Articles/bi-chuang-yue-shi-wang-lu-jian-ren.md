@@ -11,19 +11,21 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
-字面意：关窗看世界，忘路不见人  
+## 字面意：关窗看世界，忘路不见人  
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
 
 本短语为何小驹（Hé Xiǎojū / Ho Siew Khui）原创，探讨数码时代中一种被动而无声的抽离现象。  
 ________________________________________  
-🖼️ **图片：**  
-（此处放置海报 / 书法作品）  
+  
+（此处放置海报 / 书法作品）
+
 ________________________________________  
   
 在这个万物互联的时代，我们透过屏幕看尽世界百态——新闻、冲突、庆典、灾难……只需轻轻滑动手指。  
 但在这看似掌握一切的过程中，我们却任由通往真实人际的路径荒芜。  
 “闭窗阅世，忘路见人”揭示了一种看似冷静，实则悄然抽离的哲学状态——不是因智慧顿悟，而是出于便利、疲惫与恐惧。  
+
 ________________________________________  
  
 这句短语，直译为“关窗看世界，忘路不见人”，是一种温和却深刻的讽刺：当今的我们，越来越多地以数码方式“阅世”，却越来越少地亲身感受它。  
@@ -35,6 +37,7 @@ ________________________________________
 - **见人**：与人面对面、心贴心的真实交流  
 
 整句描绘了一种日益普遍的状态：足不出户却“阅尽沧桑”，神思似达八荒，身形已失其根。  
+
 ________________________________________  
 
 **解读：**  
@@ -45,6 +48,7 @@ ________________________________________
 我们渐渐成为观察者，而非参与者；  
 生活的观众，而非同行者；  
 拥有无限资讯，却缺乏一次握手的温度。  
+
 ________________________________________  
 
 **时代意义：**  
@@ -55,6 +59,7 @@ ________________________________________
 
 曾经充满故事与脚步声的道路，如今早已尘封。  
 窗虽紧闭，信息滚滚而来，但这个“世界”，我们已无法真切感受。  
+
 ________________________________________  
 
 **与“数码断联系列”的承接：**  
@@ -72,6 +77,7 @@ ________________________________________
 
 **点睛之问：**  
 何不推窗而出，重踏尘封之路？  
+
 ________________________________________  
 
 **原创声明：**  
@@ -82,23 +88,27 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 采用 CC BY 4.0 授权，请注明作者：Ho Siew Khui 何小驹 (Hé Xiǎojū)。  
 
 **透明声明：**  
-适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
+适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。
+
 ________________________________________  
 
 **🌿 作者简介：**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，  
 热爱中文语言之美、文化的细腻与传统的智慧。  
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
+
 ________________________________________  
 
 
 # 📜 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén)  
-*The window is closed, the world observed — yet the road forgotten, the people unseen*  
+## The window is closed, the world observed — yet the road forgotten, the people unseen  
 
 **📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+
 ________________________________________  
-🖼️ **Image:**  
+
 (Poster or calligraphy artwork to be inserted here)  
+
 ________________________________________  
  
 In today's hyperconnected world, we watch the world unfold through screens — news, drama, conflict, celebration — all just a scroll away.  
@@ -114,7 +124,8 @@ This proverb, literally translated as *“closing the window to observe the worl
 - **忘路 (wàng lù)** – to forget the paths one used to walk or explore  
 - **见人 (jiàn rén)** – to meet and connect with others face-to-face  
 
-Together, the phrase suggests someone who “knows” the world — but only through glass, filters and curated content — while forgetting how to walk among people and truly connect.  
+Together, the phrase suggests someone who “knows” the world — but only through glass, filters and curated content — while forgetting how to walk among people and truly connect.
+
 ________________________________________  
 
 **Interpretation:**  
@@ -125,6 +136,7 @@ It comes from comfort, from the illusion of connection, from the emotional dulli
 We become observers, not participants.  
 Spectators of life, not companions in it.  
 We know opinions but forget the warmth of a handshake.  
+
 ________________________________________  
 
 **Contemporary Relevance:**  
@@ -135,6 +147,7 @@ This proverb highlights:
 
 The road that once carried footsteps, greetings and stories now gathers dust.  
 The window may be bright with pixels but the world behind it is no longer felt.  
+
 ________________________________________  
 
 **How it fits into the Digital Age Series:**  
@@ -148,10 +161,12 @@ This is the final chord in a seven-part series on disconnection in the modern wo
 7. 闭窗阅世，忘路见人 (bì chuāng yuè shì, wàng lù jiàn rén) – The window is closed, the road forgotten, and life merely observed  
 
 Together, they trace a path from connection to detachment — until even the desire to engage has quietly faded.  
+
 ________________________________________  
 
 **Closing reflection:**  
 Perhaps it’s time to open the window and walk the forgotten road.  
+
 ________________________________________  
 
 **Authorship Declaration:**  
@@ -163,6 +178,7 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+
 ________________________________________  
 
 **🌿 About the Author:**  
