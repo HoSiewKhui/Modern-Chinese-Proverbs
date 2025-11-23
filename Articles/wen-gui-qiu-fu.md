@@ -38,6 +38,7 @@ ________________________________________
 ________________________________________
 
 **使用示例**
+
 • “他一直向那个爱甩锅的同事求助，简直是问鬼求福。”  
 • “她把关键文件托给最不可靠的人，这完全是问鬼求福。”  
 • “靠那旧软件救急？从一开始就是问鬼求福。”
@@ -84,6 +85,7 @@ When no answer can ever arrive, it is 问鬼求福.
 ________________________________________
 
 **Examples of Usage**
+
 • “She kept relying on that colleague who never delivers – a classic case of 问鬼求福.”  
 • “Trying to fix a major error with outdated tools was 问鬼求福 from the start.”  
 • “Trusting an unreliable contact to handle urgent documents… absolutely 问鬼求福.”
