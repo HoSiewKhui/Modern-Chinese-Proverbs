@@ -26,9 +26,6 @@ All content here is copyrighted by the creator and made available under the CC B
 Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
 ## Modern Chinese Proverbs  
-## 📚 Quick Index – Articles
-
-Here are the main proverb articles stored in the new **Articles** folder:
 
 ## 📚 Full Quick Index – Articles
 
