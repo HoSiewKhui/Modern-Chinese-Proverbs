@@ -1,11 +1,18 @@
-🌼 **原创权威记录 (yuán chuàng quán wēi jì lù)** 🌼  
-本仓库所载之现代箴言 (běn cāng kù suǒ zài zhī xiàn dài zhēn yán)，皆为 **Ho Siew Khui 何小驹 (Hé Xiǎojū)** 原创 (yuán chuàng)。  
-此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dàng)，用以确立作者身份、著作权属 (shǔ míng guī shǔ) 与原创时间证明 (yì yuán chuàng shí jiān zhèng míng)。
+📝 **原创权益记录**  
+本仓库收录之现代箴言（亦称现代成语）皆为 **Ho Siew Khui 何小驹（Hé Xiǎojū）** 原创，特此存档以资佐证与授权。  
+此处所有内容版权归作者本人所有，用以确认作者身份、维护其作品之原创性与权益。  
+
+📝 **yuán chuàng quán yì jì lù**  
+běn cāng kù shōu lù zhī xiàn dài zhēn yán (yì chēng xiàn dài chéng yǔ) jiē wèi **Ho Siew Khui Hé Xiǎojū** yuán chuàng,  
+tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
+cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu,  
+yòng yǐ què rèn zuò zhě shēn fèn, wèi hù qí zuò pǐn zhī yuán chuàng xìng yǔ quán yì.  
 
 **Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.**  
-**现代箴言创作者，融古雅于当代。**
+**现代箴言创作者，融古雅于当代。**  
 
-Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 何小驹 (Hé Xiǎojū), each with a dedicated article in bilingual format.
+
+Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
 ## Modern Chinese Proverbs  
 ## 📚 Quick Index – Articles
