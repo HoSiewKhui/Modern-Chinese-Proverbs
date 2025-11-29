@@ -17,8 +17,6 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 ## Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.
 ## 现代箴言创作者，融古雅于当代。 
 
-
-
 Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
 ## Modern Chinese Proverbs  
