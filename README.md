@@ -3,7 +3,7 @@
 此处所有内容版权归作者本人所有，用以确认作者身份、维护其作品之原创性与权益。  
 
 📝 **yuán chuàng quán yì jì lù**  
-běn cāng kù shōu lù zhī xiàn dài zhēn yán (yì chēng xiàn dài chéng yǔ) jiē wèi **Ho Siew Khui 何小驹（Hé Xiǎojū** yuán chuàng,  
+běn cāng kù shōu lù zhī xiàn dài zhēn yán (yì chēng xiàn dài chéng yǔ) jiē wèi **Ho Siew Khui 何小驹（Hé Xiǎojū)** yuán chuàng,  
 tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
 cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu,  
 yòng yǐ què rèn zuò zhě shēn fèn, wèi hù qí zuò pǐn zhī yuán chuàng xìng yǔ quán yì.  
