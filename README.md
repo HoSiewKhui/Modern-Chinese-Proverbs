@@ -1,16 +1,24 @@
+# 创作档案库 · Archive of Original Proverbs  
+
+**Ho Siew Khui 何小驹 (Hé Xiǎojū)** — creator of modern Chinese proverbs, crafting original bilingual expressions that blend classical rhythm with contemporary insight.
+
+**Keywords:** modern Chinese proverbs, contemporary expressions, bilingual writings, original sayings, authorship archive, Ho Siew Khui, 何小驹, Hé Xiǎojū, CC BY 4.0.
+
+——◆——
+
 📝 **原创权益记录**  
-本仓库收录之现代箴言（亦称现代成语）皆为 **Ho Siew Khui 何小驹（Hé Xiǎojū）** 原创，特此存档以资佐证与授权。  
-此处所有内容版权归作者本人所有，用以确认作者身份、维护其作品之原创性与权益。  
+本仓库收录之现代箴言皆为 Ho Siew Khui 何小驹（Hé Xiǎojū）原创，特此存档以资佐证与授权。  
+此处所有内容版权归作者本人所有，并依 CC BY 4.0 协议开放使用，使用者须按授权条款注明作者。
 
 📝 **yuán chuàng quán yì jì lù**  
-běn cāng kù shōu lù zhī xiàn dài zhēn yán (yì chēng xiàn dài chéng yǔ) jiē wèi **Ho Siew Khui 何小驹（Hé Xiǎojū)** yuán chuàng,  
-tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
-cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu,  
-yòng yǐ què rèn zuò zhě shēn fèn, wèi hù qí zuò pǐn zhī yuán chuàng xìng yǔ quán yì.  
+běn cāng kù shōu lù zhī xiàn dài zhēn yán jiē wèi Ho Siew Khui 何小驹（Hé Xiǎojū）yuán chuàng, tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
+cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bìng yī CC BY 4.0 xié yì kāi fàng shǐ yòng, shǐ yòng zhě xū àn shòu quán tiáo kuǎn zhù míng zuò zhě.
 
 **Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.**  
 **现代箴言创作者，融古雅于当代。**  
 
+All modern proverbs in this repository are original creations of Ho Siew Khui (Hé Xiǎojū), archived here as evidence of authorship and rights.  
+All content here is copyrighted by the creator and made available under the CC BY 4.0 license, which permits reuse with proper attribution to the author.
 
 Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
