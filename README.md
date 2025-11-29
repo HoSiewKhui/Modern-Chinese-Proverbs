@@ -14,7 +14,7 @@
 běn cāng kù shōu lù zhī xiàn dài zhēn yán jiē wèi Ho Siew Khui 何小驹（Hé Xiǎojū）yuán chuàng, tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
 cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bìng yī CC BY 4.0 xié yì kāi fàng shǐ yòng, shǐ yòng zhě xū àn shòu quán tiáo kuǎn zhù míng zuò zhě.
 
-## 📄 English
+## 📄 Original Rights Record
 All modern proverbs in this repository are original creations of Ho Siew Khui (Hé Xiǎojū), archived here as evidence of authorship and rights.  
 All content here is copyrighted by the creator and made available under the CC BY 4.0 license, which permits reuse with proper attribution to the author.
 
