@@ -14,14 +14,6 @@
 běn cāng kù shōu lù zhī xiàn dài zhēn yán jiē wèi Ho Siew Khui 何小驹（Hé Xiǎojū）yuán chuàng, tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
 cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bìng yī CC BY 4.0 xié yì kāi fàng shǐ yòng, shǐ yòng zhě xū àn shòu quán tiáo kuǎn zhù míng zuò zhě.
 
-## 📄 Original Rights Record
-All modern proverbs in this repository are original creations of Ho Siew Khui (Hé Xiǎojū), archived here as evidence of authorship and rights.  
-All content here is copyrighted by the creator and made available under the CC BY 4.0 license, which permits reuse with proper attribution to the author.
-
-
-**Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.**  
-**现代箴言创作者，融古雅于当代。**  
-
 
 Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
@@ -115,7 +107,7 @@ These original modern Chinese proverbs and sayings by **Ho Siew Khui 何小驹 (
 - **[LinkedIn](https://www.linkedin.com/in/ho-siew-khui-%E4%BD%95%E5%B0%8F%E9%A9%B9-h%C3%A9-xi%C7%8Eoj%C5%AB-6452902ba/)** – Shared with professional and cultural communities.  
 - **Instagram** – Visual posters and selected proverb excerpts for public visibility and enhanced search discoverability.
 
-**Keywords:** modern Chinese proverbs, idioms, sayings, chengyu, bilingual wisdom, Ho Siew Khui, 何小驹, Hé Xiǎojū, contemporary Chinese expressions
+
 
 
 
