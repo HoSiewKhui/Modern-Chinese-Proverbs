@@ -4,6 +4,8 @@
 
 **Keywords:** modern Chinese proverbs, contemporary expressions, bilingual writings, original sayings, authorship archive, Ho Siew Khui, 何小驹, Hé Xiǎojū, CC BY 4.0.
 
+All works below are original proverbs archived for public reference and attribution.
+
 ——◆——
 
 ## 📄 原创权益记录
