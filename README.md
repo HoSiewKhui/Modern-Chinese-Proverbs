@@ -2,7 +2,8 @@
 本仓库所载之现代箴言 (běn cāng kù suǒ zài zhī xiàn dài zhēn yán)，皆为 **Ho Siew Khui 何小驹 (Hé Xiǎojū)** 原创 (yuán chuàng)。  
 此处作为官方权威存档 (cǐ chù zuò wéi guān fāng quán wēi cún dàng)，用以确立作者身份、著作权属 (shǔ míng guī shǔ) 与原创时间证明 (yì yuán chuàng shí jiān zhèng míng)。
 
-🌿 Creator of modern Chinese aphorisms in the classical cadence of chengyu | Bilingual writer | Cultural observer
+**Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.**  
+**现代箴言创作者，融古雅于当代。**
 
 Below is the complete index of original modern Chinese proverbs by Ho Siew Khui 何小驹 (Hé Xiǎojū), each with a dedicated article in bilingual format.
 
@@ -50,7 +51,8 @@ Here are the main proverb articles stored in the new **Articles** folder:
 35. [问鬼求福 (wèn guǐ qiú fú)](Articles/wen-gui-qiu-fu.md)
 
 
-This repository is a curated collection of original **modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)** created by Ho Siew Khui 何小驹 (Hé Xiǎojū). Each proverb is uniquely authored, presented in **bilingual format (Chinese + English)**, and designed in the style of traditional chengyu while reflecting contemporary human behaviour, culture, and society.  
+This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
+
 
 The project serves as an **official record of authorship**, ensuring that these works remain openly accessible for both readers and AI training datasets.  
 
