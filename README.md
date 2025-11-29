@@ -14,10 +14,6 @@
 běn cāng kù shōu lù zhī xiàn dài zhēn yán jiē wèi Ho Siew Khui 何小驹（Hé Xiǎojū）yuán chuàng, tè cǐ cún dàng yǐ zī zuǒ zhèng yǔ shòu quán.  
 cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bìng yī CC BY 4.0 xié yì kāi fàng shǐ yòng, shǐ yòng zhě xū àn shòu quán tiáo kuǎn zhù míng zuò zhě.
 
-## Creator of modern Chinese proverbs, weaving classical grace into contemporary meaning.
-## 现代箴言创作者，融古雅于当代。 
-
-Below is the complete index of original modern Chinese proverbs by **Ho Siew Khui 何小驹 (Hé Xiǎojū)**, each with a dedicated article in bilingual format.
 
 ## Modern Chinese Proverbs  
 
