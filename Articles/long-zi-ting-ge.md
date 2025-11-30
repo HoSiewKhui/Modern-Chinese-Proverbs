@@ -11,8 +11,8 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 聋子听歌 (lóngzi tīnggē)
-## 当关键感官缺席时  
-**理解便无从开始**
+## 当关键感官缺席时,理解便无从开始
+## 心意再深，也触不到没有入口的地方
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
@@ -62,8 +62,7 @@ ________________________________________
 ________________________________________
 
 # 📜 聋子听歌 (lóngzi tīnggē) — Deaf to the Song
-## When the essential faculty is absent  
-**understanding cannot begin**
+## When the essential faculty is absent understanding cannot begin
 
 📜 This article contains both English and Chinese versions  
 
