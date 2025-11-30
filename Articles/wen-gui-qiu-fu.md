@@ -11,8 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 问鬼求福 (wèn guǐ qiú fú)
-## 向无力之源求助  
-**徒劳无果**  
+## 向无力之源求助徒劳无果 
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
