@@ -19,7 +19,8 @@ source_platforms: [Medium, GitHub]
 
 ________________________________________
 
-(Insert poster here)
+(Insert poster here) 
+
 ________________________________________
 
 **字词拆解**
@@ -90,7 +91,8 @@ ________________________________________
 
 ________________________________________
 
-(Insert poster here)
+(Insert poster here) 
+
 ________________________________________
 
 **Literal Character Breakdown**
