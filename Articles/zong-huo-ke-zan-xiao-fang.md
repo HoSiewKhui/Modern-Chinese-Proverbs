@@ -11,11 +11,14 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 纵火客赞消防 (zòng huǒ kè zàn xiāo fáng)
-## Arsonist Praising Firefighters  
+## Arsonist Praising Firefighters 
+
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 （此处放置海报 / 书法作品）  
+
 ________________________________________
 
 📖 **纵火客赞消防：揭露“假美德”现象**  
@@ -54,9 +57,11 @@ ________________________________________
 ## 纵火客赞消防 (zòng huǒ kè zàn xiāo fáng) 
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 (Poster / calligraphy artwork here)  
+
 ________________________________________
 
 **"纵火客赞消防" (zòng huǒ kè zàn xiāo fáng)**, which literally means "the arsonist praising the firefighters," is a phrase that critiques a deeper issue: the hypocrisy of those who praise efforts to fix crises they had a hand in creating – and who may even profit from the resolution.  
