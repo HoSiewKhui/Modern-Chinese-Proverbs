@@ -20,7 +20,7 @@ source_platforms: [Medium, GitHub]
 
 ________________________________________  
 
-（建议视觉构图：手机或电脑屏幕发出强光，人物脸庞被照亮但眼神空洞，背景昏暗）  
+（海报 / 书法作品占位符）  
 
 ________________________________________  
 
@@ -89,7 +89,7 @@ ________________________________________
 
 ________________________________________  
 
-(Poster or visual artwork to contrast glowing screens with internal emptiness — e.g. a glowing phone in a dark room beside a silhouette)  
+(Poster or visual artwork) 
 
 ________________________________________  
 
