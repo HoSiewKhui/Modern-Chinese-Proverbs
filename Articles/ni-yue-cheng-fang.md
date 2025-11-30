@@ -17,7 +17,7 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-（Insert poster/image here）
+（海报 / 书法作品占位符）
 
 ---
 
@@ -75,7 +75,7 @@ This inspired the creation of a new proverb: “逆月称方 (nì yuè chēng f�
 
 ---
 
-(Insert poster/image here)
+(Placeholder for poster/calligraphy work) 
 
 ---
 
