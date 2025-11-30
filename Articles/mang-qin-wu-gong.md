@@ -16,7 +16,9 @@ source_platforms: [Medium, GitHub]
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
 ________________________________________  
+
 （海报 / 书法作品占位符）  
+
 ________________________________________  
 
 盲勤无功 (máng qín wú gōng)，提醒人们勤奋若失去方向，再多努力也换不来成果。辛苦本身没有错，但若缺乏智慧与策略，便成了无用功。  
@@ -35,6 +37,7 @@ James 发现，公司经常需要参加新业务的投标，而这类投标往�
 别让盲目的勤奋消耗了生命。努力固然重要，但唯有勤与智同行，才会开花结果。  
 
 ________________________________________  
+
 **原创声明：**  
 「盲勤无功 (máng qín wú gōng)」为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年9月原创命名之现代箴言。  
 
@@ -45,6 +48,7 @@ ________________________________________
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ________________________________________  
+
 🌿 **作者简介：**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
@@ -56,7 +60,9 @@ ________________________________________
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
 ________________________________________  
+
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________  
 
 盲勤无功 (máng qín wú gōng) warns against effort without direction. Hard work alone is not enough. When diligence turns blind, the result is wasted strength and little reward.  
@@ -75,6 +81,7 @@ The proverb does not dismiss diligence. It reminds us that labour must be joined
 Do not let blind diligence drain your life. Work hard but work smart so that your effort carries fruit and not only fatigue.  
 
 ________________________________________  
+
 **Authorship Declaration:**  
 “máng qín wú gōng (盲勤无功)” is an original modern proverb coined by  Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025.  
 
@@ -85,5 +92,6 @@ Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________  
+
 🌿 **About the Author:**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases with a passion for the beauty, nuance and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.  
