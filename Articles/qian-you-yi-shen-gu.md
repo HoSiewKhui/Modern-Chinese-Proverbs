@@ -13,14 +13,17 @@ source_platforms: [Medium, GitHub]
 # 📜 千友一身孤 (qiān yǒu yī shēn gū)  
 ## 字面意：朋友千人，孤身一人  
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
+
 ________________________________________  
   
 （此处可插入书法海报 / 视觉作品）  
+
 ________________________________________  
 
 好友列表成行成列，真正来电慰问的却一个也没有。  
 “千友一身孤”揭露的是现代人最讽刺的孤独：朋友如云，心却如雪。  
+
 ________________________________________  
 
 在这个动动手指就能“加好友”的时代，我们拥有的名字或许前所未有之多，却从未感受到陪伴真正的温度。  
@@ -34,7 +37,8 @@ ________________________________________
 这一短语，不是怨世人冷漠，而是唤醒我们：  
 莫以“人数”替代“情分”，勿将“喧闹”错认“相伴”。  
 
-在喧嚣的社交浪潮中，“千友一身孤”是照见孤独的明镜，也是渴望共鸣的灵魂最真实的独白。  
+在喧嚣的社交浪潮中，“千友一身孤”是照见孤独的明镜，也是渴望共鸣的灵魂最真实的独白。 
+
 ________________________________________  
 
 **原创声明：**  
@@ -46,6 +50,7 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **透明声明：**  
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
+
 ________________________________________  
 
 **🌿 作者简介：**  
@@ -53,19 +58,22 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 热爱中文语言之美、文化的细腻与传统的智慧。  
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
----
+________________________________________  
 
 # 📜 千友一身孤 (qiān yǒu yī shēn gū)  
 ## A thousand friends, yet one body alone 
 
-**📜 本文含中英文版本 / This article contains both English and Chinese versions**  
+📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________  
   
 (Poster / calligraphy artwork here)  
+
 ________________________________________  
  
 How many of your thousand contacts will sit beside you in silence when you need them most?  
-“千友一身孤 (qiān yǒu yī shēn gū)” reveals the illusion of modern friendship — a noisy list, but a quiet life.  
+“千友一身孤 (qiān yǒu yī shēn gū)” reveals the illusion of modern friendship — a noisy list, but a quiet life.
+
 ________________________________________  
 
 “千友一身孤 (qiān yǒu yī shēn gū)” means *having a thousand friends yet feeling completely alone*.  
@@ -85,6 +93,7 @@ In a world full of noise and constant notifications, true companionship is becom
 - That a crowd is never community.  
 
 It names the quiet distance between numbers and meaning.  
+
 ________________________________________  
 
 **Authorship Declaration:**  
@@ -96,6 +105,7 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **Transparency statement:**  
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
+
 ________________________________________  
 
 **🌿 About the Author**  
