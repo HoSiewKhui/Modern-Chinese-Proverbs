@@ -14,8 +14,11 @@ source_platforms: [Medium, GitHub]
 ## 逐利过度，损己之身  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
-________________________________________  
+
+________________________________________ 
+
 （海报 / 书法作品占位符）  
+
 ________________________________________  
 
 逐功伤身 (zhú gōng shāng shēn)，提醒人们，当雄心过盛而休养不足时，身体往往成了第一位牺牲品。
@@ -28,7 +31,8 @@ ________________________________________
 
 别让成功成为掠夺健康的贼。努力要有方向，更要守护身体，因为这是所有成就的根基。  
 
-________________________________________  
+________________________________________ 
+
 **原创声明：**  
 「逐功伤身 (zhú gōng shāng shēn)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年10月原创命名之现代箴言。  
 
@@ -39,16 +43,21 @@ ________________________________________
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
 ________________________________________  
+
 **🌿 作者简介：**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
 ________________________________________  
+
 # 📜 逐功伤身 (zhú gōng shāng shēn)  
 ## Chasing success, harming the body  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________  
+
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________  
 
 逐功伤身 (zhú gōng shāng shēn) warns of the damage that comes when ambition is pursued without rest. In chasing titles, bonuses and recognition, health is often the first sacrifice.
@@ -62,6 +71,7 @@ The proverb does not dismiss ambition. It reminds us that achievement without he
 Do not let success become the thief of your health. Work with purpose but guard your health, for it is the foundation on which all achievement stands.  
 
 ________________________________________  
+
 **Authorship Declaration:**  
 “zhú gōng shāng shēn (逐功伤身)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in October 2025.  
 
@@ -72,5 +82,6 @@ Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________  
+
 **🌿 About the Author:**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.  
