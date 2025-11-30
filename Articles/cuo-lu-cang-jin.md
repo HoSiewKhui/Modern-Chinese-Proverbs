@@ -12,13 +12,13 @@ source_platforms: [Medium, GitHub]
 
 # 📜 错路藏金 (cuò lù cáng jīn)
 ## 误入之途，亦可得金  
-________________________________________
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________
 
-（此处放置海报 / 书法作品）  
-(Poster / Calligraphy Artwork Placeholder)  
+（海报 / 书法作品占位符）
+
 ________________________________________
 
 人生在世，常常事与愿违。原本设想好的一条路，却因环境、机缘或误差而不得不转向。  
@@ -124,12 +124,13 @@ ________________________________________
 
 # 📜 错路藏金 (cuò lù cáng jīn)
 ## “The wrong road hides gold”  
+
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
+
 ________________________________________
 
-📜 This article contains both English and Chinese versions / 本文含中英文版本  
-________________________________________
+(Placeholder for poster/calligraphy work) 
 
-(Poster / Calligraphy Artwork Placeholder)  
 ________________________________________
 
 Sometimes, what begins as a mistake turns into a blessing.  
