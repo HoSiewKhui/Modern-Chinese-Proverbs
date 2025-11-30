@@ -20,7 +20,7 @@ source_platforms: [Medium, GitHub]
 
 ---
 
-（此处插入最终 PNG 海报图）
+（海报 / 书法作品占位符）
 
 ---
 
@@ -107,7 +107,7 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 
 ---
 
-(Insert vertical calligraphy poster here)
+(Placeholder for poster/calligraphy work) 
 
 ---
 
