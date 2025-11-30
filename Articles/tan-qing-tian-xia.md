@@ -13,13 +13,16 @@ source_platforms: [Medium, GitHub]
 # 📜 贪倾天下 (tān qīng tiān xià)
 ## Greed topples all-under-heaven 
 
-📜 本文含中英文版本，介绍这句原创短语的起源、含义与当代意义。  
+📜 本文含中英文版本，介绍这句原创短语的起源、含义与当代意义。 
+
 ________________________________________
 
 （此处放置海报 / 书法作品）  
+
 ________________________________________
 
 在这个欲望无度的时代，我愿分享一则简短的感悟：贪欲，这一古老的危险，足以摧毁哪怕是最强大的帝国。  
+
 ________________________________________
 
 回顾那些塑造王朝兴衰、社会盛衰、人生成败的力量，有一个道理始终清晰：  
@@ -61,12 +64,15 @@ ________________________________________
 ## Greed topples all-under-heaven 
 
 📜 This article contains both English and Chinese versions, exploring the origins, meaning, and modern relevance of this original phrase.  
+
 ________________________________________
 
 (Poster / calligraphy artwork here)  
+
 ________________________________________
 
 In today’s world of unchecked ambition, I offer this short reflection on how greed — a timeless danger — has the power to topple even the greatest empires.  
+
 ________________________________________
 
 In reflecting on the forces that shape the rise and fall of empires, societies, and individuals, one truth stands clear to me: greed knows no limits, and when left unchecked, it consumes everything — even that which seems unshakable.  
@@ -101,5 +107,4 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases,
 
 ---
 
-📜 **License Notice**  
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
