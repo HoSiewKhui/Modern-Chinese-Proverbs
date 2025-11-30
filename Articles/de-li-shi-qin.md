@@ -16,7 +16,9 @@ source_platforms: [Medium, GitHub]
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
 ________________________________________  
+
 （海报 / 书法作品占位符）  
+
 ________________________________________  
 
 得利失亲 (dé lì shī qīn)，提醒人们，当财富的追逐掩盖了亲情的呵护，得到的或许是金钱，却失去了至亲。亲情一旦疏离，再想弥补已非易事。  
@@ -32,6 +34,7 @@ ________________________________________
 这句箴言不仅是父母与子女的写照，也关乎我们身边最亲近的人——渴望陪伴的伴侣，盼望照顾的双亲，期待同行的朋友。不要因追逐利益而失去至亲至爱。真正的富足，不只是银行数字的增加，而是仍有人在你身边与你同在。  
 
 ________________________________________  
+
 **原创声明：**  
 「得利失亲 (dé lì shī qīn)」为Ho Siew Khui 何小驹 (Hé Xiǎojū) 于2025年10月原创命名之现代箴言。  
 
@@ -41,7 +44,8 @@ ________________________________________
 **透明声明：**  
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。  
 
-________________________________________  
+________________________________________ 
+
 🌿 **作者简介：**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
@@ -50,10 +54,12 @@ ________________________________________
 # 📜 得利失亲 (dé lì shī qīn)  
 ## Gain profit, lose kin  
 
-📜 This article contains both English and Chinese versions / 本文含中英文版本  
+📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
 ________________________________________  
+
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________  
 
 得利失亲 (dé lì shī qīn) warns of the loss that comes when the pursuit of wealth overshadows the bonds of family. Gain in fortune can mean loss in love and once the years of closeness are gone, they cannot easily be reclaimed.  
@@ -69,6 +75,7 @@ At fifteen, his parents tried to speak sense into him but it was too late. He ha
 This proverb is not only about parents and their children. It is also about the people we hold dearest - a spouse who longs for companionship, ageing parents who hope for care and friends who wish to share life’s journey. Do not let the pursuit of gain cost you the people closest to your heart. True prosperity is found not only in earnings but in the family and loved ones who remain by your side.  
 
 ________________________________________  
+
 **Authorship Declaration:**  
 “dé lì shī qīn (得利失亲)” is an original modern proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in October 2025.  
 
@@ -79,5 +86,6 @@ Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________  
+
 🌿 **About the Author:**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.  
