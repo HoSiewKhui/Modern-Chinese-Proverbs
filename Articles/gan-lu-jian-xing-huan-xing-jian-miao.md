@@ -13,13 +13,11 @@ source_platforms: [Medium, GitHub]
 # 📜 赶路见星，缓行见妙 gǎn lù jiàn xīng, huǎn xíng jiàn miào
 ## 越赶越晕星光现，慢行方得妙理明
 
+📜 本文含中英文版本 / This article contains both English and Chinese versions
+
 ________________________________________
 
 （海报 / 书法作品占位符）  
-
-________________________________________
-
-📜 本文含中英文版本 / This article contains both English and Chinese versions
 
 ________________________________________
 
@@ -87,8 +85,6 @@ ________________________________________
 
 # 📜 gǎn lù jiàn xīng, huǎn xíng jiàn miào (赶路见星，缓行见妙)
 ## Rush and you’ll see stars. Slow down and you’ll unlock subtle brilliance.  
-
-________________________________________
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
