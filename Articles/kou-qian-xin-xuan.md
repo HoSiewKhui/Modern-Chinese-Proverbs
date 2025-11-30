@@ -14,12 +14,15 @@ source_platforms: [Medium, GitHub]
 ## 外谦内炫的处世之态  
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
-(Poster / calligraphy artwork here)  
+（海报 / 书法作品占位符）
+
 ________________________________________
 
 在人际交往中，最让人会心一笑的莫过于某些言语：看似自谦，却处处透出炫耀之意。这种“口谦心炫”的微妙行为，是生活中常见的社交现象。  
+
 ________________________________________
 
 在现实生活中，我们常遇到一种“隐性炫耀”：不直白地吹嘘，而是以谦虚的口吻巧妙表达优越感。  
@@ -70,12 +73,15 @@ ________________________________________
 ## The humble mouth, boastful heart
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 (Poster / calligraphy artwork here)  
+
 ________________________________________
 
 In daily face-to-face conversations, some remarks appear humble but are carefully crafted to impress. This is exactly what we call “口谦心炫 (kǒu qiān xīn xuàn)”.  
+
 ________________________________________
 
 In real-life interactions, a subtle form of showing off often appears. It is not blatant boasting but modest words that conceal pride and self-congratulation.  
@@ -97,6 +103,7 @@ At a reunion, a friend says: “I’ve been so busy lately, taking my child to t
 In a meeting, a manager begins with “I lack experience” but immediately lists all the major projects they have successfully led. This is the height of “口谦心炫”.  
 
 May this proverb serve as a subtle but sharp way of recognising hidden boasting. Let it help us appreciate and laugh at these familiar quirks of human behaviour.  
+
 ________________________________________
 
 **Authorship Declaration:**  
