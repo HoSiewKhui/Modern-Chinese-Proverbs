@@ -16,6 +16,8 @@ source_platforms: [Medium, GitHub]
 # 📜 静水藏龙 (jìng shuǐ cáng lóng)
 ## 平静之下，潜藏巨力
 
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
+
 ________________________________________
 
 （海报 / 书法作品占位符）
@@ -50,6 +52,8 @@ ________________________________________
 
 # 📜 jìng shuǐ cáng lóng (静水藏龙)
 ## Still waters hide dragons
+
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________
 
