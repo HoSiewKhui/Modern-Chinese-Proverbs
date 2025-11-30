@@ -69,15 +69,15 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本
 
-In daily life, we often encounter people who habitually contradict others for no reason.
-If you say the moon is round, this person will insist it is square – a perfect example of contrarian behaviour that opposes common sense purely for the sake of opposition.
-This inspired the creation of a new proverb: “逆月称方 (nì yuè chēng fāng)”.
-
 ---
 
 (Placeholder for poster/calligraphy work) 
 
 ---
+
+In daily life, we often encounter people who habitually contradict others for no reason.
+If you say the moon is round, this person will insist it is square – a perfect example of contrarian behaviour that opposes common sense purely for the sake of opposition.
+This inspired the creation of a new proverb: “逆月称方 (nì yuè chēng fāng)”.
 
 Literally meaning “Declaring the Moon Square out of Contradiction,” this metaphor describes those who reflexively oppose widely accepted truths simply to appear different or argumentative.
 
