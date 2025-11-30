@@ -15,11 +15,11 @@ source_platforms: [Medium, GitHub]
 
 # 触友失亲 (chù yǒu shī qīn)
 
-📜 本文含中英文版本
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________
 
-(Insert poster here)
+（海报 / 书法作品占位符）
 
 ________________________________________
 
@@ -85,11 +85,11 @@ ________________________________________
 
 ## Touching friends, losing kin
 
-📜 This article contains both English and Chinese versions / 本文含中英文版本
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________
 
-Insert Poster here
+(Placeholder for poster/calligraphy work) 
 
 ________________________________________
 
