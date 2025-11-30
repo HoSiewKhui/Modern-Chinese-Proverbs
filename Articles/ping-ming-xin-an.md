@@ -17,9 +17,11 @@ source_platforms: [Medium, GitHub]
 ## 荧幕明亮，心却黯淡  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________  
-🎨 图片：  
+
 （建议视觉构图：手机或电脑屏幕发出强光，人物脸庞被照亮但眼神空洞，背景昏暗）  
+
 ________________________________________  
 
 📖 屏幕亮了，屋子也亮了。  
@@ -51,6 +53,7 @@ ________________________________________
 这不是语言的对仗，而是时代的真实写照。  
 
 ________________________________________  
+
 🌱 **思考：**  
 你是否曾在关掉屏幕的那一刻，突然意识到自己一整天都没有好好说一句话？  
 你是否在光亮之中，感受到一种无声的空虚？  
@@ -60,7 +63,8 @@ ________________________________________
 邀请我们承认，荧幕的光不能取代心灵的亮，  
 更提醒我们，在追逐亮光的同时，别忘了点亮自己心中的那盏灯。  
 
-________________________________________  
+________________________________________ 
+
 **原创声明：**  
 “屏明心暗 (píng míng xīn àn)” 为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 于 2025年9月 原创构思并正式命名。  
 
@@ -71,19 +75,22 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 **透明声明：**  
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
 
-________________________________________  
+________________________________________ 
+
 **🌿 作者简介：**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
----
+________________________________________
 
 # 📜 píng míng xīn àn (屏明心暗)  
 ## The screen is bright but the heart is dark  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________  
-🎨 Image:  
+
 (Poster or visual artwork to contrast glowing screens with internal emptiness — e.g. a glowing phone in a dark room beside a silhouette)  
+
 ________________________________________  
 
 📖 The screen glows. The room is lit. We scroll, we laugh, we react. On the surface, everything is illuminated.  
@@ -116,6 +123,7 @@ But when we rely on digital light to substitute emotional warmth, we may find th
 The juxtaposition is deliberate. One shines outward. The other fades inward.  
 
 ________________________________________  
+
 🌱 **Reflection:**  
 Have you ever turned off your screen only to realise how quiet your mind had become — not in peace but in absence?  
 
@@ -126,6 +134,7 @@ An invitation to remember that light can distract us but it cannot replace feeli
 We must ask ourselves: what are we really feeding — the eyes or the heart?  
 
 ________________________________________  
+
 **Authorship Declaration:**  
 “屏明心暗 (píng míng xīn àn)” — an original proverb coined by Ho Siew Khui 何小驹 (Hé Xiǎojū) in September 2025, author of this article.  
 
@@ -137,5 +146,6 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).  
 
 ________________________________________  
+
 **🌿 About the Author:**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.  
