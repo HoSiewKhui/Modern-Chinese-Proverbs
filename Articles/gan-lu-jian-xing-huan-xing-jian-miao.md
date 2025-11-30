@@ -16,7 +16,6 @@ source_platforms: [Medium, GitHub]
 ________________________________________
 
 （海报 / 书法作品占位符）  
-(Poster / Calligraphy Artwork Placeholder)  
 
 ________________________________________
 
@@ -91,11 +90,10 @@ ________________________________________
 
 ________________________________________
 
-📜 This article contains both English and Chinese versions / 本文含中英文版本  
+📜 本文含中英文版本 / This article contains both English and Chinese versions
 
 ________________________________________
-
-（海报 / 书法作品占位符）  
+  
 (Poster / Calligraphy Artwork Placeholder)  
 
 ________________________________________
