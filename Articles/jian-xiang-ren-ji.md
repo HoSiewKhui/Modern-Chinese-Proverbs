@@ -14,9 +14,11 @@ source_platforms: [Medium, GitHub]
 ## The keyboard clatters, yet the person stays silent  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions 
+
 ________________________________________  
 
-（此处可插入书法海报 / 视觉作品）  
+（海报 / 书法作品占位符）
+
 ________________________________________  
 
 好友不断上线，心却始终离线。  
@@ -24,6 +26,7 @@ ________________________________________
 然而，当回音停止，我们是否真的被听见？  
 “键响人寂”揭示了一个表面热络、内里孤寂的现实：  
 文字在飞，心却静得出奇。  
+
 ________________________________________  
 
 “键响人寂”，看似是键盘响，人在沉默，  
@@ -42,7 +45,8 @@ ________________________________________
 这句话也提醒我们：  
 在数字世界里活跃，并不等于被理解；  
 连接不断，并不等于不孤独。  
-“键响人寂”，是在热闹背后，给孤独命名。  
+“键响人寂”，是在热闹背后，给孤独命名。 
+
 ________________________________________  
 
 **原创声明：**  
@@ -54,6 +58,7 @@ Licensed under CC BY 4.0. Please credit Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 **透明声明：**  
 适度借助 AI 工具撰写以提高清晰度；短语与见解皆由Ho Siew Khui 何小驹 (Hé Xiǎojū)原创。  
+
 ________________________________________  
 
 **🌿 作者简介：**  
@@ -62,18 +67,22 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。  
 
 ________________________________________  
+
 # 📜 键响人寂 (jiàn xiǎng rén jì)  
 ## The keyboard clatters, yet the person stays silent
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________  
 
-(Poster / calligraphy artwork here)  
+(Placeholder for poster/calligraphy work) 
+
 ________________________________________  
  
 How many of your thousand contacts will sit beside you in silence when you need them most?  
 “键响人寂 (jiàn xiǎng rén jì)” captures a modern irony:  
 fingers fly, notifications buzz, yet hearts remain eerily silent.  
+
 ________________________________________  
 
 “键响人寂 (jiàn xiǎng rén jì)” means *the keyboard clatters, yet the person stays silent*.  
@@ -93,6 +102,7 @@ Being active online doesn’t mean being understood.
 Constant connection doesn’t guarantee companionship.  
 Sometimes, the busiest hands hide the quietest hearts.  
 “键响人寂” gives loneliness a name—one that echoes beneath the chatter.  
+
 ________________________________________  
 
 **Authorship Declaration:**  
