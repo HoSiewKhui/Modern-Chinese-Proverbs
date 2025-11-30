@@ -13,10 +13,12 @@ source_platforms: [Medium, GitHub]
 # **📜 解难妙计 (jiě nàn miào jì)**
 ## 解难有计，破局有方
 
-📜 本文含中英文版本
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________
+
 （海报 / 书法作品占位符）
+
 ________________________________________
 
 「解难妙计」是一句以成语格律打造的当代原创箴言。  
@@ -27,12 +29,14 @@ ________________________________________
 不需铺陈，不必声张，只是一个切中要害的解决之道。  
 
 ________________________________________
+
 **使用示例**  
 • “他提出的方案，是破局的解难妙计。”  
 • “如今能用的解难妙计只有这一招。”  
 • “她的建议，真是一条解难妙计。”  
 
 ________________________________________
+
 **原创声明**  
 「解难妙计 (jiě nàn miào jì)」为何小驹（Hé Xiǎojū / Ho Siew Khui）于2025年7月3日原创命名之现代箴言。  
 
@@ -43,6 +47,7 @@ ________________________________________
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为何小驹 (Hé Xiǎojū / Ho Siew Khui) 原创。  
 
 ________________________________________
+
 **🌿 作者简介**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作语言简练，善于洞察时代，捕捉生活的矛盾与幽微之处。  
 
@@ -50,10 +55,12 @@ ________________________________________
 
 # **📜 解难妙计 (jiě nàn miào jì) – A brilliant solution to a difficult problem**
 
-📜 This article contains both English and Chinese versions
+📜 本文含中英文版本 / This article contains both English and Chinese versions 
 
 ________________________________________
+
 (Poster / Calligraphy Artwork Placeholder)
+
 ________________________________________
 
 “Jiě nàn miào jì” is a modern idiom coined in the classical cadence of chengyu.  
