@@ -14,9 +14,11 @@ source_platforms: [Medium, GitHub]
 ## 往事阴影，扰乱当下
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________
 
 （海报 / 书法作品占位符）  
+
 ________________________________________
 
 许多感情里的裂痕，并不是出现在今天，而是源自对“昨天”的不肯放下。  
@@ -56,9 +58,11 @@ ________________________________________
 **The past unsettles the present**
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions  
+
 ________________________________________
 
 (Poster / Calligraphy Artwork Placeholder)  
+
 ________________________________________
 
 The feeling of *旧影扰心 (jiù yǐng rǎo xīn)* — old shadows disturbing the heart — is a silent poison in many relationships.  
