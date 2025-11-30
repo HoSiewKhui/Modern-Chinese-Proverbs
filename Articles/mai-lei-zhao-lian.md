@@ -12,9 +12,9 @@ source_platforms: [Medium, GitHub]
 
 # 📜 卖泪招怜 (mài lèi zhāo lián)
 ## “Selling tears to attract sympathy”  
-________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 在日常生活中，我们常常遇到一些人，喜欢反复讲述自己的“苦情故事”，用悲惨经历换取别人的怜悯与关注。这样的行为，令人无奈又令人莞尔。  
@@ -22,7 +22,7 @@ ________________________________________
 
 ________________________________________
 
-[poster to insert here]  
+（海报 / 书法作品占位符）
 
 ________________________________________
 
@@ -63,9 +63,9 @@ ________________________________________
 
 # 📜 卖泪招怜 (mài lèi zhāo lián)
 ## Selling tears to attract sympathy  
-________________________________________
 
 📜 This article contains both English and Chinese versions / 本文含中英文版本  
+
 ________________________________________
 
 In everyday life, we often encounter people who like to recount their “sob stories,” seeking sympathy and attention from others. This behaviour, equal parts awkward and amusing, inspired this original phrase:  
@@ -73,7 +73,7 @@ In everyday life, we often encounter people who like to recount their “sob sto
 
 ________________________________________
 
-[poster to insert here]  
+(Placeholder for poster/calligraphy work) 
 
 ________________________________________
 
