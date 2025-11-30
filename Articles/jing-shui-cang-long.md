@@ -14,10 +14,12 @@ source_platforms: [Medium, GitHub]
 
 
 # 📜 静水藏龙 (jìng shuǐ cáng lóng)
-
 ## 平静之下，潜藏巨力
+
 ________________________________________
-（此处插入最终 PNG 海报图）
+
+（海报 / 书法作品占位符）
+
 ________________________________________
 
 **静水藏龙**告诉我们，莫因平静而轻视。那份安静之中，或许正隐藏着惊人的力量，只待时机一到，便会腾空而出。
@@ -27,6 +29,7 @@ ________________________________________
 在职场上也常见这样的场景。会议室里，资深经理们争论不休，方案复杂却毫无进展。一直沉默的年轻助理忽然开口，寥寥数语便点出关键，提出最简洁而有效的解决办法。全场顿时安静。她的安静从不是空白，而是锋锐智慧的隐藏。
 
 **静水藏龙**提醒我们，切莫被表象蒙蔽。看似平凡者，往往蕴藏深厚；看似无声处，往往潜伏巨龙。
+
 ________________________________________
 
 **原创声明：**  
@@ -46,8 +49,8 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 ________________________________________ 
 
 # 📜 jìng shuǐ cáng lóng (静水藏龙)
-
 ## Still waters hide dragons
+
 ________________________________________
 
 (Poster / Calligraphy Artwork Placeholder)
@@ -61,6 +64,7 @@ In a park, an elderly man moves slowly through a Tai Chi form. His steps are gen
 The same truth can be seen in the workplace. A heated meeting drags on as senior voices argue in circles. A junior analyst who has said nothing finally speaks. In one calm sentence, she lays out the solution no one else could see. The room fell silent. Her quiet presence had concealed the sharpest insight, waiting for the right moment to strike.
 
 **静水藏龙** reminds us that appearances deceive. The calm and ordinary may carry the greatest strength. What looks unremarkable may be hiding a dragon.
+
 ________________________________________
 
 ***Authorship Declaration:**  
