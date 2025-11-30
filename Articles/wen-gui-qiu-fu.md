@@ -15,8 +15,11 @@ source_platforms: [Medium, GitHub]
 **徒劳无果**  
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
+
 ________________________________________
+
 （海报 / 书法作品占位符）
+
 ________________________________________
 
 问鬼求福，说的是一种注定落空的求助。  
@@ -35,6 +38,7 @@ ________________________________________
 问鬼求福提醒我们：  
 不能给予之处，无论多诚心，都不会有回响。  
 当答案永远无法到来，那便是问鬼求福。
+
 ________________________________________
 
 **使用示例**
@@ -66,8 +70,11 @@ ________________________________________
 ## A powerless source yields nothing  
 
 📜 This article contains both English and Chinese versions
+
 ________________________________________
+
 (Poster / Calligraphy Artwork Placeholder)
+
 ________________________________________
 
 Some appeals fall short due to timing or luck; others fail because the source itself lacks the power to respond. 问鬼求福 describes the latter – a sincere request made toward something that can never offer help. The emptiness of the reply is not indifference or hostility but pure impossibility.
@@ -83,6 +90,7 @@ They expect solutions from systems incapable of delivering them.
 The sincerity of the request is not the issue; the incapacity of the recipient is. 问鬼求福 reminds us that effort must meet capability and hope must meet the right direction. A powerless source yields nothing, however heartfelt the plea.
 
 When no answer can ever arrive, it is 问鬼求福.
+
 ________________________________________
 
 **Examples of Usage**
@@ -90,6 +98,7 @@ ________________________________________
 • “She kept relying on that colleague who never delivers – a classic case of 问鬼求福.”  
 • “Trying to fix a major error with outdated tools was 问鬼求福 from the start.”  
 • “Trusting an unreliable contact to handle urgent documents… absolutely 问鬼求福.”
+
 ________________________________________
 
 **Authorship Declaration:**  
