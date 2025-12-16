@@ -185,7 +185,7 @@ This is 错路藏金 — the error turned out to be the blessing.
 
 ________________________________________
 
-🎓 The Misdirected Student
+🎓 **The Misdirected Student**
 
 A student applies to study law but is placed in media communications due to an application mishap.  
 Disappointed, she decides to continue.  
