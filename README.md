@@ -59,6 +59,7 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 36. [聋子听歌 (lóng zi tīng gē)](Articles/long-zi-ting-ge.md)
 37. [求神见鬼 (qiú shén jiàn guǐ)](Articles/qiu-shen-jian-gui.md)
 38. [金屋空心 (jīn wū kōng xīn)](Articles/jin-wu-kong-xin.md)
+39. [同屋异天 (tóng wū yì tiān)](Articles/tong-wu-yi-tian.md)
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
