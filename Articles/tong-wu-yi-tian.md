@@ -10,8 +10,8 @@ status: published
 source_platforms: [Medium, GitHub]
 -->
 
-## 📜 同屋异天 (tóng wū yì tiān)
-**同处一屋，心却相隔**
+# 📜 同屋异天 (tóng wū yì tiān)
+## 同处一屋，心却相隔
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -47,9 +47,9 @@ Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书�
 
 ________________________________________
 
-## 📜 同屋异天 (tóng wū yì tiān)
+# 📜 同屋异天 (tóng wū yì tiān)
 Same house, different skies  
-**Together under one roof, yet worlds apart**
+## Together under one roof, yet worlds apart
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
