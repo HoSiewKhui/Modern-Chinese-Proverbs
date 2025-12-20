@@ -64,7 +64,7 @@ ________________________________________
 # 📜 聋子听歌 (lóngzi tīnggē) — Deaf to the Song
 ## When the essential faculty is absent understanding cannot begin
 
-📜 This article contains both English and Chinese versions  
+📜 本文含中英文版本 / This article contains both English and Chinese versions  
 
 ________________________________________
 
