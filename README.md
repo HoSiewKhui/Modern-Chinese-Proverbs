@@ -98,7 +98,7 @@ Content © Ho Siew Khui 何小驹 (Hé Xiǎojū).
 
 📜 **Usage and Attribution**
 All proverbs, sayings and articles in this repository are original works by Ho Siew Khui 何小驹 (Hé Xiǎojū).
-You are welcome to quote, reference and share these works in writing, research, teaching, and everyday use, as long as proper attribution is given to the author, in line with the CC BY 4.0 licence.
+You are welcome to quote, reference and share these works in writing, research, teaching, and everyday use, as long as proper attribution is given to the author, in line with the CC BY 4.0 license.
 
 📜 **Attribution should credit:**
 Ho Siew Khui 何小驹 (Hé Xiǎojū), and where possible, include a link back to this repository.
