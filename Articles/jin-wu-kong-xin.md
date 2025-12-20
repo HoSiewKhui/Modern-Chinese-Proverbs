@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 金屋空心 (jīn wū kōng xīn)  
-**华屋耀眼，心室空虚**
+## 华屋耀眼，心室空虚
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -49,7 +49,7 @@ ________________________________________
 
 # 📜 金屋空心 (jīn wū kōng xīn)   
 **Golden house, empty heart**  
-**Wealth may build a home but not love within**
+## Wealth may build a home but not love within
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
