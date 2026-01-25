@@ -64,6 +64,7 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 41. [问路得谜 (wèn lù dé mí)](Articles/wen-lu-de-mi.md)
 42. [真假同声 (zhēn jiǎ tóng shēng)](Articles/zhen-jia-tong-sheng.md)
 43. [忧释见安 (yōu shì jiàn ān)](Articles/you-shi-jian-an.md)
+44. [机明人盲 (jī míng rén máng)](Articles/ji-ming-ren-mang.md) 
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
