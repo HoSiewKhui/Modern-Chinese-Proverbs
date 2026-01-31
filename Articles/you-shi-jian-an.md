@@ -12,7 +12,7 @@ source_platforms: [Medium, GitHub]
 
 # 🔔 忧释见安 (yōu shì jiàn ān)
 
-**释放忧虑，重获平静**
+## 释放忧虑，重获平静
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -53,7 +53,7 @@ ________________________________________
 
 # 🔔 忧释见安 (yōu shì jiàn ān) – Release worry, rediscover peace
 
-**A quiet reminder for anxious times**
+## A quiet reminder for anxious times
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
