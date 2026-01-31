@@ -11,7 +11,7 @@ source_platforms: [Medium, GitHub]
 -->
 
 # 📜 机明人盲 (jī míng rén máng)
-**便利使人失明**
+## 便利使人失明
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
@@ -50,7 +50,7 @@ Ho Siew Khui 何小驹 (Hé Xiǎojū) 是一位现代短语的创作者与书写
 ________________________________________
 
 # 📜 机明人盲 (jī míng rén máng)
-**Convenience that blinds**
+## Convenience that blinds
 
 📜 本文含中英文版本 / This article contains both English and Chinese versions
 
