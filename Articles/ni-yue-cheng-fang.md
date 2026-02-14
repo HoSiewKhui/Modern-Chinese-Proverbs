@@ -44,16 +44,12 @@ source_platforms: [Medium, GitHub]
 
 **示例用法：**
 
-他在讨论中总要逆月称方，让人无奈。
-
-Tā zài tǎolùn zhōng zǒng yào nì yuè chēng fāng, ràng rén wúnài.
-
+他在讨论中总要逆月称方，让人无奈。  
+Tā zài tǎolùn zhōng zǒng yào nì yuè chēng fāng, ràng rén wúnài.  
 “He always insists on taking the opposite position in discussions. Truly 逆月称方.” 
 
-别跟他争了，他只是习惯逆月称方而已。
-
-Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.
-
+别跟他争了，他只是习惯逆月称方而已。  
+Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.  
 “Don’t bother arguing with him. He’s just used to being contrarian — pure 逆月称方.”
 
 ---
@@ -100,16 +96,12 @@ Drafted with AI assistance for clarity; proverb and insights are original by Ho 
 
 **Example Usage**
 
-他在讨论中总要逆月称方，让人无奈。
-
-Tā zài tǎolùn zhōng zǒng yào nì yuè chēng fāng, ràng rén wúnài.
-
+他在讨论中总要逆月称方，让人无奈。  
+Tā zài tǎolùn zhōng zǒng yào nì yuè chēng fāng, ràng rén wúnài.  
 “He always insists on taking the opposite position in discussions. Truly 逆月称方.”
 
-别跟他争了，他只是习惯逆月称方而已。
-
-Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.
-
+别跟他争了，他只是习惯逆月称方而已。  
+Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.  
 “Don’t bother arguing with him. He’s just used to being contrarian — pure 逆月称方.”
 
 ---
