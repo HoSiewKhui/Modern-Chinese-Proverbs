@@ -67,7 +67,7 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 44. [机明人盲 (jī míng rén máng)](Articles/ji-ming-ren-mang.md)
 45. [偏镜照人 (piān jìng zhào rén)](Articles/pian-jing-zhao-ren.md)
 46. [人看人福，己背己担 (rén kàn rén fú, jǐ bèi jǐ dān)](Articles/ren-kan-ren-fu-ji-bei-ji-dan.md)
-47. [急财必漏 (jí cái bì lòu)](Articles/ji-cai-bi-lou.md) 
+47. [急财必漏 (jí cái bì lòu)](Articles/ji-cai-bi-lou.md)
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
