@@ -90,7 +90,7 @@ This proverb critiques habitual contrarians whose pointless opposition exhausts 
 “逆月称方 (nì yuè chēng fāng)” is an original modern proverb coined by
 Ho Siew Khui 何小驹 (Hé Xiǎojū) in July 2025.
 
-**Creative Commons License:**  
+🌿 **Creative Commons License:**  
 Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as required under the terms.
 
 **Transparency statement:**  
@@ -114,7 +114,7 @@ Bié gēn tā zhēng le, tā zhǐshì xíguàn nì yuè chēng fāng éryǐ.
 
 ---
 
-**About the Author:**  
+🌿 **About the Author:**  
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work distils the ironies of contemporary life through concise expression and thoughtful reflection.
 
 ---
