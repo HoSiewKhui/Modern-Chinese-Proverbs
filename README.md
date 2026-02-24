@@ -1,4 +1,4 @@
-aaaa# 创作档案库 · Archive of Original Proverbs  
+创作档案库 · Archive of Original Proverbs  
 
 **Ho Siew Khui 何小驹 (Hé Xiǎojū)** — creator of modern Chinese proverbs, crafting original bilingual expressions that blend classical rhythm with contemporary insight.
 
