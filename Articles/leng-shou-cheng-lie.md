@@ -56,7 +56,7 @@ ________________________________________
 本文在写作过程中借助人工智能以提升清晰度；箴言与思想皆为 Ho Siew Khui 何小驹 (Hé Xiǎojū) 原创。
 ________________________________________
 
-🌿 **作者简介:** 
+🌿 **作者简介**  
 Ho Siew Khui 何小驹（Hé Xiǎojū）是一位现代短语的创作者与书写者，热爱中文语言之美、文化的细腻与传统的智慧。他的创作善于以简练表达洞察时代，折射生活的矛盾与幽微之处。
 ________________________________________
 
@@ -108,5 +108,5 @@ Licensed under CC BY 4.0 — credit to Ho Siew Khui 何小驹 (Hé Xiǎojū) as 
 Drafted with AI assistance for clarity; proverb and insights are original by Ho Siew Khui 何小驹 (Hé Xiǎojū).
 ________________________________________
 
-🌿 **About the Author** 
+🌿 **About the Author**   
 Ho Siew Khui 何小驹 (Hé Xiǎojū) is a writer and creator of modern phrases, with a passion for the beauty, nuance, and elegance of Chinese language, culture, and tradition. His work captures the ironies of contemporary life through concise expression and thoughtful reflection.
