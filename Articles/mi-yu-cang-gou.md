@@ -37,7 +37,9 @@ ________________________________________
 这些骗局中的话语常常似曾相识：
 
 • “我们是在为未来打算。”
+
 • “这一次你就相信我。”
+
 • “我很快就会去见你。”
 
 言辞温暖，钩子却锋利。
@@ -45,7 +47,9 @@ ________________________________________
 记住几点：
 
 • 真正的感情不会要求你保密
+
 • 突然过于亲密的情感需要警惕
+
 • 任何金钱请求都应先停下查证
 
 真正的爱不需要催促。
@@ -96,7 +100,9 @@ The story ended there. The man never existed.
 Messages in these schemes often sound familiar:
 
 • “We are building a future together.”
+
 • “Just trust me this once.”
+
 • “I will come see you soon.”
 
 The words sound warm. The hook is sharp.
@@ -104,7 +110,9 @@ The words sound warm. The hook is sharp.
 Remember this:
 
 • Genuine affection does not demand secrecy
+
 • Sudden emotional closeness should be treated with caution
+
 • Any request for money deserves careful verification
 
 Real love grows slowly and stands in the open.
