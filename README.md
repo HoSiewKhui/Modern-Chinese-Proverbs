@@ -72,7 +72,8 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 49. [冷守成裂 (lěng shǒu chéng liè)](Articles/leng-shou-cheng-lie.md)
 50. [权归数海 (quán guī shù hǎi)](Articles/quan-gui-shu-hai.md)
 51. [蜜语藏钩 (mì yǔ cáng gōu)](Articles/mi-yu-cang-gou.md)
-52. [电恐如盗 (diàn kǒng rú dào)](Articles/dian-kong-ru-dao.md) 
+52. [电恐如盗 (diàn kǒng rú dào)](Articles/dian-kong-ru-dao.md)
+53. [机替人泣 (jī tì rén qì)](Articles/ji-ti-ren-qi.md)
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
