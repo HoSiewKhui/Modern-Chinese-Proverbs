@@ -74,6 +74,7 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 51. [蜜语藏钩 (mì yǔ cáng gōu)](Articles/mi-yu-cang-gou.md)
 52. [电恐如盗 (diàn kǒng rú dào)](Articles/dian-kong-ru-dao.md)
 53. [机替人泣 (jī tì rén qì)](Articles/ji-ti-ren-qi.md)
+54. [他错为灯，自避深坑 (tā cuò wéi dēng, zì bì shēn kēng)](Articles/ta-cuo-wei-deng-zi-bi-shen-keng.md)
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
