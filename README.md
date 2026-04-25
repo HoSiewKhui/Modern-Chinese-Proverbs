@@ -76,7 +76,8 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 53. [机替人泣 (jī tì rén qì)](Articles/ji-ti-ren-qi.md)
 54. [他错为灯，自避深坑 (tā cuò wéi dēng, zì bì shēn kēng)](Articles/ta-cuo-wei-deng-zi-bi-shen-keng.md)
 55. [假袍吃金 (jiǎ páo chī jīn)](Articles/jia-pao-chi-jin.md)
-56. [语短锋长 (yǔ duǎn fēng cháng)](Articles/yu-duan-feng-chang.md) 
+56. [语短锋长 (yǔ duǎn fēng cháng)](Articles/yu-duan-feng-chang.md)
+57. [未听先拒，事败怪人 (wèi tīng xiān jù, shì bài guài rén)](Articles/wei-ting-xian-ju-shi-bai-guai-ren.md) 
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
