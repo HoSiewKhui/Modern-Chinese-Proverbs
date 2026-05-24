@@ -79,7 +79,8 @@ cǐ chù suǒ yǒu nèi róng bǎn quán guī zuò zhě běn rén suǒ yǒu, bì
 56. [语短锋长 (yǔ duǎn fēng cháng)](Articles/yu-duan-feng-chang.md)
 57. [未听先拒，事败怪人 (wèi tīng xiān jù, shì bài guài rén)](Articles/wei-ting-xian-ju-shi-bai-guai-ren.md)
 58. [独信即阱 (dú xìn jí jǐng)](Articles/du-xin-ji-jing.md)
-59. [智借情疏 (zhì jiè qíng shū)](Articles/zhi-jie-qing-shu.md) 
+59. [智借情疏 (zhì jiè qíng shū)](Articles/zhi-jie-qing-shu.md)
+60. [冷语折兴 (lěng yǔ zhé xìng)](Articles/leng-yu-zhe-xing.md)
 
 
 This repository is a curated collection of original *modern Chinese proverbs, idioms, and sayings (现代箴言 / 成语)* created by Ho Siew Khui 何小驹 (Hé Xiǎojū), weaving classical grace into contemporary meaning while reflecting modern human behaviour, culture, and society.
